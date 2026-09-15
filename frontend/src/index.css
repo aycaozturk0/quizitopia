@@ -1,0 +1,110 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * { box-sizing: border-box; }
+
+  body {
+    @apply bg-dark-900 text-white font-body;
+    background-image:
+      radial-gradient(ellipse 80% 60% at 50% -20%, rgba(0,245,255,0.08) 0%, transparent 60%),
+      radial-gradient(ellipse 60% 40% at 80% 110%, rgba(255,45,155,0.06) 0%, transparent 60%);
+    min-height: 100vh;
+  }
+
+  ::selection {
+    @apply bg-neon-cyan/30 text-white;
+  }
+
+  /* Custom scrollbar */
+  ::-webkit-scrollbar { width: 4px; height: 4px; }
+  ::-webkit-scrollbar-track { @apply bg-dark-800; }
+  ::-webkit-scrollbar-thumb { @apply bg-neon-cyan/40 rounded-full; }
+  ::-webkit-scrollbar-thumb:hover { @apply bg-neon-cyan/70; }
+}
+
+@layer components {
+  .btn-primary {
+    @apply px-6 py-3 rounded-xl font-display font-semibold text-sm tracking-wider
+           bg-gradient-to-r from-neon-cyan to-cyan-400 text-dark-900
+           hover:shadow-neon transition-all duration-300 hover:scale-105
+           active:scale-95;
+  }
+
+  .btn-ghost {
+    @apply px-6 py-3 rounded-xl font-display font-semibold text-sm tracking-wider
+           border border-white/10 text-white/70 hover:border-neon-cyan/50
+           hover:text-neon-cyan hover:bg-neon-cyan/5
+           transition-all duration-300;
+  }
+
+  .card {
+    @apply bg-dark-800/60 backdrop-blur-sm border border-white/5 rounded-2xl;
+  }
+
+  .card-glow {
+    @apply card hover:border-neon-cyan/30 hover:shadow-neon transition-all duration-300;
+  }
+
+  .neon-text {
+    @apply text-neon-cyan drop-shadow-[0_0_10px_rgba(0,245,255,0.5)];
+  }
+
+  .level-badge {
+    @apply inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-display
+           font-semibold tracking-wider border;
+  }
+
+  .xp-bar-track {
+    @apply h-2 bg-dark-600 rounded-full overflow-hidden;
+  }
+
+  .xp-bar-fill {
+    @apply h-full rounded-full bg-gradient-to-r from-neon-cyan to-neon-pink;
+    animation: xpBar 1s ease-out forwards;
+  }
+}
+
+/* Zen Mode overlay */
+.zen-mode-active {
+  position: fixed;
+  inset: 0;
+  z-index: 50;
+  background: rgba(8, 12, 20, 0.98);
+}
+
+/* Syntax highlight override */
+.syntax-block pre {
+  @apply rounded-xl border border-white/10 font-mono text-sm leading-relaxed !important;
+  margin: 0 !important;
+}
+
+/* Answer option animation */
+.answer-correct {
+  @apply border-neon-green bg-neon-green/10 shadow-neon-green;
+  animation: pop 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+.answer-wrong {
+  @apply border-red-500 bg-red-500/10;
+  animation: shake 0.4s ease-out;
+}
+
+@keyframes shake {
+  0%,100% { transform: translateX(0); }
+  25%      { transform: translateX(-6px); }
+  75%      { transform: translateX(6px); }
+}
+
+/* XP toast */
+.xp-toast {
+  @apply fixed top-8 right-8 z-[100] px-6 py-4 rounded-2xl
+         bg-dark-700 border border-neon-cyan/40 shadow-neon
+         font-display text-neon-cyan font-bold;
+  animation: slideUp 0.4s ease-out, fadeOut 0.4s ease-in 2.6s forwards;
+}
+
+@keyframes fadeOut {
+  to { opacity: 0; transform: translateY(-10px); }
+}

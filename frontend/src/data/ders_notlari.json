@@ -1,0 +1,241 @@
+[
+    {
+        "ders_adi": "Bilgi Güvenliği",
+        "icerikler": [
+            {
+                "baslik": "Bilgi Güvenliğine Giriş",
+                "metin": "🛡️\nBilgi Güvenliği\n, bilgilerin izinsiz erişim, kullanım ve değişikliğe karşı korunmasıdır.\n            Gizlilik, Bütünlük ve Erişilebilirlik ilkeleri üzerine kuruludur."
+            },
+            {
+                "baslik": "1. Temel Güvenlik İlkeleri",
+                "metin": "Gizlilik:\nBilgi sadece yetkili kişilerce erişilebilir olmalıdır.\n\nBütünlük:\nBilginin doğru ve değiştirilmemiş olması gerekir.\n\nErişilebilirlik:\nYetkili kullanıcılar bilgiye ihtiyaç duyduğu anda ulaşabilmelidir."
+            },
+            {
+                "baslik": "2. Kriptoloji",
+                "metin": "Kriptoloji,\nKriptografi\n(şifreleme) ve\nKriptanaliz\n(şifre çözme)\n            bilimidir.\n\nSimetrik ve Asimetrik Şifreleme, Hash Fonksiyonları ve Steganografi temel kavramlardır."
+            },
+            {
+                "baslik": "3. Adli Bilişim",
+                "metin": "Dijital delillerin toplanması, incelenmesi ve raporlanması süreçlerini içerir."
+            },
+            {
+                "baslik": "4. Kötücül Yazılımlar",
+                "metin": "Virüsler, Solucanlar, Truva Atları, Rootkitler ve Spyware türündeki zararlı yazılımlar bilgi sistemlerini\n            tehdit eder."
+            }
+        ]
+    },
+    {
+        "ders_adi": "Bilgisayar Ağları",
+        "icerikler": [
+            {
+                "baslik": "1. Bilgisayar Ağı Nedir?",
+                "metin": "Bilgisayar ağı, cihazların birbirine bağlanarak veri alışverişi yaptığı sistemdir.\n\n📌 Amaç:\n            - Veri paylaşımı\n            - Kaynak paylaşımı (yazıcı, internet)\n            - İletişim"
+            },
+            {
+                "baslik": "2. Ağ Türleri",
+                "metin": "LAN → Yerel ağ (ev, okul)\nWAN → Geniş ağ (internet)\nMAN → Şehir ağı"
+            },
+            {
+                "baslik": "3. OSI Modeli (7 Katman)",
+                "metin": "OSI modeli, ağ iletişimini 7 katmana böler:\n\n💡 Her katmanın görevi farklıdır."
+            },
+            {
+                "baslik": "4. TCP/IP Modeli",
+                "metin": "Gerçek hayatta kullanılan modeldir."
+            },
+            {
+                "baslik": "5. IP Adresleme",
+                "metin": "Her cihazın bir IP adresi vardır.\n\nIPv4 → 32 bit\nIPv6 → 128 bit"
+            },
+            {
+                "baslik": "6. Subnet (Alt Ağ)",
+                "metin": "Ağı küçük parçalara bölmeye yarar."
+            },
+            {
+                "baslik": "7. Ağ Cihazları",
+                "metin": "Router → ağlar arası bağlantı\nSwitch → cihazları bağlar\nModem → internet sağlar"
+            },
+            {
+                "baslik": "8. Protokoller",
+                "metin": "HTTP → web\nFTP → dosya transferi\nTCP → güvenli iletim\nUDP → hızlı ama güvensiz"
+            },
+            {
+                "baslik": "9. Ağ Topolojileri",
+                "metin": "Star → merkezli yapı\nBus → tek hat\nRing → halka"
+            },
+            {
+                "baslik": "10. Temel Ağ Komutları",
+                "metin": "💡 Ping bağlantı test eder."
+            },
+            {
+                "baslik": "11. Veri Nasıl İletilir?",
+                "metin": "Veri paketlere bölünür ve hedefe gönderilir."
+            },
+            {
+                "baslik": "12. Özet",
+                "metin": "✔ Ağ = veri paylaşımı\n            ✔ OSI = teorik model\n            ✔ TCP/IP = gerçek model\n            ✔ IP = cihaz adresi\n            ✔ Router/Switch = bağlantı"
+            }
+        ]
+    },
+    {
+        "ders_adi": "Bilgisayar Teknolojileri",
+        "icerikler": [
+            {
+                "baslik": "1. Bilgisayar Nedir?",
+                "metin": "Bilgisayar, veri işleyen elektronik bir makinedir. Girdi alır, işler ve çıktı üretir.\n\n📌 Temel bileşenler:\n            - Donanım (Hardware)\n            - Yazılım (Software)"
+            },
+            {
+                "baslik": "2. İşlemci (CPU)",
+                "metin": "CPU, bilgisayarın beynidir. Tüm işlemleri gerçekleştirir.\n\nBileşenleri:\n            - ALU → matematiksel işlemler\n            - Control Unit → komut yönetimi\n            - Register → çok hızlı veri tutma\n\n💡 Saat hızı (GHz) işlemcinin hızını belirler."
+            },
+            {
+                "baslik": "3. RAM (Bellek)",
+                "metin": "RAM, geçici veri depolama alanıdır. Bilgisayar kapandığında silinir.\n\nTürleri:\n            - DDR3\n            - DDR4\n            - DDR5\n\n💡 RAM ne kadar büyükse, aynı anda daha fazla program çalışır."
+            },
+            {
+                "baslik": "4. Depolama Birimleri",
+                "metin": "Verilerin kalıcı olarak saklandığı yerlerdir.\n\nHDD:\n            - Mekanik\n            - Daha yavaş\n            - Ucuz\n\nSSD:\n            - Elektronik\n            - Çok hızlı\n            - Daha pahalı"
+            },
+            {
+                "baslik": "5. Anakart",
+                "metin": "Tüm donanım bileşenlerini birbirine bağlayan ana devredir.\n\nÜzerinde:\n            - CPU soketi\n            - RAM yuvaları\n            - PCIe slotları\n            - BIOS"
+            },
+            {
+                "baslik": "6. Ekran Kartı (GPU)",
+                "metin": "Grafik işlemlerini yapar. Oyun ve tasarım için önemlidir.\n\n💡 GPU paralel işlem yapabilir."
+            },
+            {
+                "baslik": "7. Güç Kaynağı (PSU)",
+                "metin": "Bilgisayara elektrik sağlar.\n\nWatt değeri önemlidir (örn: 500W, 750W)."
+            },
+            {
+                "baslik": "8. BIOS / UEFI",
+                "metin": "Bilgisayar açılırken çalışan ilk yazılımdır.\n\nDonanımı kontrol eder ve işletim sistemini başlatır."
+            },
+            {
+                "baslik": "9. Veri Akışı",
+                "metin": "Veri akışı şu şekildedir:\n\n💡 Tüm bileşenler veri yolları (bus) ile bağlıdır."
+            },
+            {
+                "baslik": "10. Özet",
+                "metin": "✔ CPU → işlem yapar\n            ✔ RAM → geçici hafıza\n            ✔ SSD/HDD → kalıcı depolama\n            ✔ Anakart → bağlantı merkezi\n            ✔ GPU → grafik işlemleri"
+            }
+        ]
+    },
+    {
+        "ders_adi": "Gömülü Sistemler",
+        "icerikler": [
+            {
+                "baslik": "1. Gömülü Sistem Nedir?",
+                "metin": "Gömülü sistemler, belirli bir görevi yerine getirmek için tasarlanmış özel amaçlı bilgisayar sistemleridir.\n            Genellikle başka bir cihazın içine gömülü olarak çalışırlar.\n\n📌 Örnekler:\n            - Çamaşır makinesi\n            - Otomobil kontrol sistemleri (ECU)\n            - Akıllı saatler\n            - IoT cihazları"
+            },
+            {
+                "baslik": "2. İşlemci (CPU) Nedir?",
+                "metin": "CPU (Central Processing Unit), bilgisayarın beynidir. Tüm işlemleri yönetir ve veri akışını kontrol eder.\n\nCPU’nun temel görevleri:\n            - Aritmetik işlemler yapmak (ALU)\n            - Komutları çözmek (Control Unit)\n            - Verileri taşımak\n\nCPU Bileşenleri:\n            - ALU → matematiksel işlemler\n            - Control Unit → komut kontrolü\n            - Cache → hızlı bellek"
+            },
+            {
+                "baslik": "3. Cache (Önbellek)",
+                "metin": "Cache, işlemcinin hızlı çalışmasını sağlayan geçici bellektir.\n\nTürleri:\n            - L1 → en hızlı\n            - L2 → orta\n            - L3 → büyük ama daha yavaş"
+            },
+            {
+                "baslik": "4. Veri Yolları (Bus)",
+                "metin": "İşlemci ile diğer birimler arasındaki iletişim yollarıdır.\n\n- Data Bus → veri taşır\n            - Address Bus → adres taşır\n            - Control Bus → kontrol sinyalleri"
+            },
+            {
+                "baslik": "5. İşlemci Mimarileri",
+                "metin": "İşlemci mimarisi, komutların nasıl işlendiğini belirler.\n\nRISC:\n            - Az ve basit komut\n            - Daha hızlı\n            - Gömülü sistemlerde yaygın\n\nCISC:\n            - Karmaşık komutlar\n            - Daha az komutla iş yapılır"
+            },
+            {
+                "baslik": "6. Bellek Mimarileri",
+                "metin": "Von Neumann:\n            - Veri ve komut aynı yerde\n            - Basit ama yavaş olabilir\n\nHarvard:\n            - Veri ve komut ayrı\n            - Daha hızlı\n            - Gömülü sistemlerde kullanılır"
+            },
+            {
+                "baslik": "7. Paralel İşlem",
+                "metin": "Paralel işlem, bir problemin parçalara bölünerek aynı anda çözülmesidir.\n\nTürleri:\n            - SISD\n            - SIMD\n            - MIMD\n\n💡 Çok çekirdekli işlemciler bu mantıkla çalışır."
+            },
+            {
+                "baslik": "8. Çok Çekirdekli Sistemler",
+                "metin": "Her çekirdek ayrı işlem yapabilir.\n\n- L1/L2 → çekirdeğe özel\n            - L3 → ortak kullanım"
+            },
+            {
+                "baslik": "9. Gelecek Trendler",
+                "metin": "- IoT (Nesnelerin İnterneti)\n            - Makine Öğrenmesi\n            - Artırılmış Gerçeklik (AR)\n            - Derin Öğrenme"
+            }
+        ]
+    },
+    {
+        "ders_adi": "Nesne Programlama",
+        "icerikler": [
+            {
+                "baslik": "Giriş",
+                "metin": "🏛️\nNesneye Yönelik Programlama (NYP)\n, veriyi ve bu veriyi işleyen metotları tek bir yapı\n            olan\nnesne\niçinde birleştiren bir yazılım geliştirme yaklaşımıdır. Amaç: karmaşık\n            sistemleri daha anlaşılır, bölünebilir ve yönetilebilir hale getirmektir."
+            },
+            {
+                "baslik": "1. Sınıflar (Classes) ve Nesneler (Objects)",
+                "metin": "•\nSınıf (Class)\n: Nesnelerin sahip olacağı özellikler ve davranışların tanımlandığı\n            şablondur.\n•\nNesne (Object)\n: Sınıftan üretilmiş gerçek örneklerdir. Bellekte yer kaplar ve sınıfın\n            tanımladığı davranışları kullanır.\nÖrnek:\nAraba sınıfı renk, model, hız gibi özellikleri ve gaz_ver(), fren_yap() gibi\n            metotları barındırabilir."
+            },
+            {
+                "baslik": "2. NYP'nin Ana İlkeler",
+                "metin": "1. Kapsülleme (Encapsulation)\nVeriyi koruma prensibidir. Nesnenin iç detayları dışarıya kapatılır, yalnızca belirlenen metotlarla\n            erişilir.\n\n2. Miras (Inheritance)\nBir sınıfın başka bir sınıftan özellik ve davranışları miras almasını sağlar. Kod tekrarını büyük ölçüde\n            azaltır. Aynı zamanda daha az kod yazılmasını sağlar.\nÖrnek:\nMotosiklet bir Taşıt'tır.\n\n3. Çok Biçimlilik (Polymorphism)\nFarklı sınıfların aynı isimli metoda farklı şekillerde yanıt verebilmesini sağlar.\n•\nOverriding\n: Alt sınıfın miras aldığı metodu yeniden tanımlaması.\n•\nOverloading\n: Aynı metot adının farklı parametrelerle kullanılması.\n\n4. Soyutlama (Abstraction)\nGereksiz detayları gizleyip kullanıcıya sadece gerekli işlevi sunar.\n\n5. Arkadaş (Friend)\nBir sınıfın private olan üyelerine friend metodu dışarıdan erişim izni kazanır.\nfriend class Test;  // Test sınıfının gizli olan üyerine erişebilir.\nfriend void A;  // A metoduna arkadaş olarak erişebilir.\n\n6. Dinamik Bellek Yönetimi (new,delete)\n• new : dinamik olarak belekte yer tahsisi yapar.\n• delete : ayrılmış olan belleği temizler, serbest bırakır.\nTest *a = new Test; // bellekte kalıcı olarak a nesnesi kalıcaktır.\ndelete a; // a nesnesi kalıcı olarak bellekten silindi.\n\n7. Sabit Üye (const,define)\n• const : Değişkeni sabit yapar ve asla değiştirmez.(Ör; PI = 3.14;)\n• define : Hafıza tasarrufu sağlar ve kodun okunabilirliğini artırarak sabit değerlerin yönetimini kolaylaştırır.\n\n8. Referans Gösterimi (&)\n• Mevcut bir değişkene verilen takma ad (alias) veya alternatif isimdir. \n            Bir referans tanımlandığında, aslında o değişkene yeni bir isim verilmiş olur ve referans üzerinden yapılan tüm işlemler, orijinal değişken üzerinde gerçekleşir.\nint& x = a;  // a nesnesinin kopyasıdır bellekte yer oluşturmaz.\n\n9. Pointer (*)\n• Bir verinin kendisi yerine bellekteki (RAM) adresini tutan özel bir değişkendir. C ve C++ gibi dillerde kullanılır, bellek yönetimi ve veri yapılarında veriye doğrudan erişim sağlar. \n            \"*\" operatörü ile tanımlanır (int *ptr) ve işaret edilen adresteki değere erişmek (dereferencing) için kullanılır.\nint *x = &a // a değişkeni pointer olarak x değişkeninde bellekte tutulur.\n\n10. İsim Uzayı (Namespace)\n• Sınıfları, fonksiyonları ve değişkenleri belirli bir çatı altında toplayarak organize eden, aynı isimli yapıların çakışmasını önleyen mantıksal bir kapsayıcıdır. \n            Kodun okunabilirliğini artırır, büyük projelerde karmaşayı önler ve modülerlik sağlar..Global şekilde tanımlanır.\nnamespace Test{...};"
+            },
+            {
+                "baslik": "3. Popüler Dillerde NYP",
+                "metin": "Java\n: İlkel tipler hariç her şey nesnedir. Tek miras yapısı vardır fakat arayüzlerle çoklu\n            miras mümkündür.\n\nC#\n: Java'ya benzerdir, .NET ekosisteminin temelidir. Sealed sınıflarla miras\n            engellenebilir.\n\nPython\n: Çok esnektir, her şey nesnedir. Çoklu mirasa izin verir.\n\nC++\n: Hem yapısal hem nesne yönelimli özellikleri destekler. Çoklu miras mümkündür.\n\nPHP\n: Modern sürümler tam NYP desteklidir. Arayüz, soyut sınıf, miras gibi tüm özellikler\n            bulunur."
+            }
+        ]
+    },
+    {
+        "ders_adi": "Veri Tabanı",
+        "icerikler": [
+            {
+                "baslik": "Veritabanı Yönetim Sistemlerine Giriş",
+                "metin": "🌐\nVeritabanı Yönetim Sistemleri (VTYS)\n, dijital verilerin güvenli, hızlı ve düzenli\n            biçimde saklanmasını, yönetilmesini ve sorgulanmasını sağlayan yazılımlardır."
+            },
+            {
+                "baslik": "1. Veritabanı Mimarisi ve Veri Bağımsızlığı",
+                "metin": "Karmaşıklığı gizlemek için 3 seviyeli şema mimarisi kullanılır:\nFiziksel Seviye:\nVerinin disk üzerindeki depolama yapısı.\nMantıksal Seviye:\nTabloların yapısı ve aralarındaki ilişkiler.\nDış Seviye:\nFarklı kullanıcıların veriyi görme biçimleri (Görünümler)."
+            },
+            {
+                "baslik": "2. Kavramsal Modelleme (ER ve EER)",
+                "metin": "Gerçek dünya nesneleri\nVarlık (Entity)\n, özellikleri ise\nNitelik\n                (Attribute)\nolarak adlandırılır.\n•\nZayıf Varlık:\nKendi başına anahtar niteliği olmayan, başka bir varlığa bağımlı olan\n            varlıktır."
+            },
+            {
+                "baslik": "4. Normalizasyon",
+                "metin": "Veri tekrarını önlemek için tabloların kurallara göre ayrıştırılmasıdır:\n1NF:\nTekrarlanan gruplar ve bileşik alanlar olmamalıdır.\n2NF:\nKısmi fonksiyonel bağımlılıklar giderilmelidir.\n3NF:\nGeçişli bağımlılıklar kaldırılmalıdır."
+            },
+            {
+                "baslik": "6. ACID Prensipleri",
+                "metin": "Veritabanı işlemlerinin (Transaction) güvenilirliği için 4 temel ilke vardır:\nAtomicity (Atomiklik):\nİşlem ya tamamen gerçekleşir ya da hiç gerçekleşmez.\nConsistency (Tutarlılık):\nİşlem sonrası veritabanı kurallara uygun kalır.\nIsolation (İzolelik):\nEşzamanlı işlemler birbirini etkilemez.\nDurability (Kalıcılık):\nTamamlanan işlem sistem çökse dahi korunur."
+            }
+        ]
+    },
+    {
+        "ders_adi": "Web Tasarım Ve Betik Dili",
+        "icerikler": [
+            {
+                "baslik": "1. HTML5 (HyperText Markup Language)",
+                "metin": "HTML, web sayfasının yapısını belirler. Tarayıcıya hangi içeriğin başlık, paragraf veya görsel olduğunu\n            söyler.\n\nTemel yapı:\n\n💡\nbody\n= kullanıcıya görünen kısım\n\nTemel etiketler:"
+            },
+            {
+                "baslik": "2. Semantik HTML",
+                "metin": "Semantik etiketler sayfanın anlamını güçlendirir.\n\n💡 SEO için çok önemlidir."
+            },
+            {
+                "baslik": "3. CSS3",
+                "metin": "CSS, HTML'e stil verir (renk, boyut, hizalama).\n\nSeçiciler:\n\nClass örneği:"
+            },
+            {
+                "baslik": "4. Box Model",
+                "metin": "Her HTML elemanı bir kutudur.\n\nMargin = dış boşluk\nPadding = iç boşluk"
+            },
+            {
+                "baslik": "5. Flexbox",
+                "metin": "Elemanları hizalamak için kullanılır."
+            },
+            {
+                "baslik": "6. Grid",
+                "metin": "Grid iki boyutlu yerleşim sistemidir.\n\n💡 Dashboard ve büyük tasarımlarda kullanılır."
+            }
+        ]
+    }
+]

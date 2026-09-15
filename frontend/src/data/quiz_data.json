@@ -1,0 +1,3602 @@
+[
+    {
+        "kategori": "BILGI",
+        "zorluk": "Kolay",
+        "soru": "1. İzinsiz erişimi engellemek için ağ trafiğini denetleyen güvenlik duvarına ne ad verilir?",
+        "secenekler": [
+            "a) Antivirüs",
+            "b) Güvenlik Duvarı (Firewall)",
+            "c) Şifre Yöneticisi",
+            "d) Yedekleme Sistemi"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "BILGI",
+        "zorluk": "Kolay",
+        "soru": "2. Telefona gelen kod gibi ek bir doğrulama adımı gerektiren mekanizma nedir?",
+        "secenekler": [
+            "a) Tek Oturum Açma (SSO)",
+            "b) İki Faktörlü Kimlik Doğrulama (2FA)",
+            "c) VPN",
+            "d) Kriptografi"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "BILGI",
+        "zorluk": "Kolay",
+        "soru": "3. Verilerin şifrelenerek iletildiğini gösteren tarayıcıdaki protokol ön eki hangisidir?",
+        "secenekler": [
+            "a) HTTP",
+            "b) FTP",
+            "c) HTTPS",
+            "d) SMTP"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "BILGI",
+        "zorluk": "Kolay",
+        "soru": "4. Meşru bir program gibi gizlenen kötü amaçlı yazılımlara ne ad verilir?",
+        "secenekler": [
+            "a) Truva Atı (Trojan)",
+            "b) Solucan (Worm)",
+            "c) Casus Yazılım (Spyware)",
+            "d) Botnet"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "BILGI",
+        "zorluk": "Kolay",
+        "soru": "5. Verileri saldırı veya felaket durumunda kaybetmemek için periyodik kopyalamaya ne denir?",
+        "secenekler": [
+            "a) Şifreleme",
+            "b) Güncelleme",
+            "c) Yedekleme (Backup)",
+            "d) Kimlik Avı"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "BILGI",
+        "zorluk": "Kolay",
+        "soru": "6. Bilgisayar sistemlerine zarar vermek amacıyla tasarlanmış yazılımların genel adı nedir?",
+        "secenekler": [
+            "a) Açık Kaynak",
+            "b) Kötü Amaçlı Yazılım (Malware)",
+            "c) İşletim Sistemi",
+            "d) Güvenilir Yazılım"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "BILGI",
+        "zorluk": "Kolay",
+        "soru": "7. Yasal kullanıcıymış gibi görünerek hassas bilgileri ele geçirmeye çalışan dolandırıcılık tekniği?",
+        "secenekler": [
+            "a) DDoS",
+            "b) Kimlik Avı (Phishing)",
+            "c) Sosyal Mühendislik",
+            "d) Kaba Kuvvet Saldırısı"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "BILGI",
+        "zorluk": "Kolay",
+        "soru": "8. İyi bir şifrenin temel özelliklerinden biri şifrenin ne olması gerektiğidir?",
+        "secenekler": [
+            "a) Kısa ve kolay hatırlanır",
+            "b) Sık sık değiştirilmez",
+            "c) Uzun, karmaşık ve benzersiz",
+            "d) Kişisel bilgi içermesi"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "BILGI",
+        "zorluk": "Kolay",
+        "soru": "9. Sahte isteklerle çevrimiçi hizmeti erişilemez hale getirmeyi amaçlayan saldırı nedir?",
+        "secenekler": [
+            "a) SQL Enjeksiyonu",
+            "b) Hizmet Reddi (DoS/DDoS)",
+            "c) Oturum Çalma",
+            "d) Çapraz Site Betikleme (XSS)"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "BILGI",
+        "zorluk": "Kolay",
+        "soru": "10. İçeriği anlaşılmaz bir formata dönüştürme işlemine ne ad verilir?",
+        "secenekler": [
+            "a) Sıkıştırma",
+            "b) Şifreleme (Encryption)",
+            "c) Dijital İmzalama",
+            "d) Hash İşleme"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "BILGI",
+        "zorluk": "Orta",
+        "soru": "1.Aşağıdakilerden hangisi CIA üçlüsünün bir bileşenidir?",
+        "secenekler": [
+            "A) İzlenebilirlik",
+            "B) Gizlilik",
+            "C) Şifreleme",
+            "D) Yedekleme"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "BILGI",
+        "zorluk": "Orta",
+        "soru": "2.“Phishing” saldırısının temel amacı nedir?",
+        "secenekler": [
+            "A) Sunucuyu çökertmek",
+            "B) Kullanıcıdan bilgi çalmak",
+            "C) Dosya şifrelemek",
+            "D) Zararlı yazılım yüklemek"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "BILGI",
+        "zorluk": "Orta",
+        "soru": "3. (İki Faktörlü Doğrulama) için aşağıdakilerden hangisi gereklidir?",
+        "secenekler": [
+            "A) Aynı cihazdan iki giriş",
+            "B) İk farklı kullanıcı hesabı",
+            "C) İki bağımsız doğrulama yöntemi",
+            "D) Aynı şifrenin iki kez girilmesi"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "BILGI",
+        "zorluk": "Orta",
+        "soru": "4.Firewall’un temel görevi aşağıdakilerden hangisidir?",
+        "secenekler": [
+            "A) Dosya şifrelemek",
+            "B) Bağlantı hızını artırmak",
+            "C) Ağ trafiğini filtrelemek",
+            "D) Sunucu yapılandırmak"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "BILGI",
+        "zorluk": "Orta",
+        "soru": "5.DDoS saldırısı hangi sonucu hedefler?",
+        "secenekler": [
+            "A) Sunucu hızını artırmak",
+            "B) Sistemi hizmet veremez hale getirmek",
+            "C) Verileri şifrelemek",
+            "D) Şifre tahmin etmek"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "BILGI",
+        "zorluk": "Orta",
+        "soru": "6.Aşağıdakilerden hangisi brute force saldırısını tanımlar?",
+        "secenekler": [
+            "A) Zararlı yazılım yükleme",
+            "B) Tüm şifre kombinasyonlarını deneme",
+            "C) Veri tabanı sorgularını bozma",
+            "D) Sistem dosyalarını silme"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "BILGI",
+        "zorluk": "Orta",
+        "soru": "7.Hashing ile şifreleme arasındaki temel fark hangisidir?",
+        "secenekler": [
+            "A) Şifreleme geri döndürülemezdir",
+            "B) Hashing tek yönlüdür",
+            "C) Hashing daha yavaştır",
+            "D) Şifreleme sadece veritabanlarında kullanılır"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "BILGI",
+        "zorluk": "Orta",
+        "soru": "8.VPN’in kullanım amacı nedir?",
+        "secenekler": [
+            "A) İnternet trafiğini hızlandırmak",
+            "B) Trafiği şifrelemek ve anonim yapmak",
+            "C) Bilgisayarı formatlamak",
+            "D) Donanımı test etmek"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "BILGI",
+        "zorluk": "Orta",
+        "soru": "9. Sosyal mühendislik saldırılarında genellikle hedef ne olur?",
+        "secenekler": [
+            "A) Donanım hataları",
+            "B) İnsan zafiyeti",
+            "C) Ağ protokolleri",
+            "D) Yazılım lisansları"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "BILGI",
+        "zorluk": "Orta",
+        "soru": "10.MAC adresi neyi belirtir?",
+        "secenekler": [
+            "A) IP adresini",
+            "B) Cihazın fiziksel ağ kimliğini",
+            "C) İşletim sistemi sürümünü",
+            "D) DNS kaydını"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "BILGI",
+        "zorluk": "Zor",
+        "soru": "1. Aşağıdakilerden hangisi bir “side-channel attack” örneğidir?",
+        "secenekler": [
+            "A) SQL Injection",
+            "B) Zamanlama analizi",
+            "C) Cross-site scripting",
+            "D) DNS poisoning"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "BILGI",
+        "zorluk": "Zor",
+        "soru": "2. “Salting” işlemi hashing üzerinde ne amaçla yapılır?",
+        "secenekler": [
+            "A) Hash’i hızlandırmak",
+            "B) Aynı şifrenin aynı hash’i üretmesini engellemek",
+            "C) Hash’i geri döndürmek",
+            "D) Dosyaları şifrelemek"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "BILGI",
+        "zorluk": "Zor",
+        "soru": "3. Diffie–Hellman protokolü hangi güvenlik fonksiyonunu sağlar?",
+        "secenekler": [
+            "A) Kimlik doğrulama",
+            "B) Anahtar değişimi",
+            "C) Yetkilendirme",
+            "D) Ağ izleme"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "BILGI",
+        "zorluk": "Zor",
+        "soru": "4. Bir sertifikanın geçerliliğini kontrol etmek için kullanılan yöntemlerden biri hangisidir?",
+        "secenekler": [
+            "A) ARP Request",
+            "B) CRL",
+            "C) ICMP Echo",
+            "D) DNS lookup"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "BILGI",
+        "zorluk": "Zor",
+        "soru": "5. Kerberos protokolü ne sağlar?",
+        "secenekler": [
+            "A) Dosya sıkıştırma",
+            "B) Merkezi kimlik doğrulama",
+            "C) VLAN yapılandırma",
+            "D) IP yönlendirme"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "BILGI",
+        "zorluk": "Zor",
+        "soru": "6. Aşağıdakilerden hangisi “advanced persistent threat (APT)” gruplarının özelliğidir?",
+        "secenekler": [
+            "A) Kısa süreli saldırılar yapmaları",
+            "B) Hızlı ama yüzeysel teknikler kullanmaları",
+            "C) Uzun süreli, hedefe özel saldırılar gerçekleştirmeleri",
+            "D) Sadece donanım hatalarından yararlanmaları"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "BILGI",
+        "zorluk": "Zor",
+        "soru": "7. AES şifreleme algoritması hangi tür şifreleme standartlarına aittir?",
+        "secenekler": [
+            "A) Asimetrik",
+            "B) Hibrit",
+            "C) Simetrik",
+            "D) Hash tabanlı"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "BILGI",
+        "zorluk": "Zor",
+        "soru": "8. Bir ağda ARP spoofing saldırılarını azaltmak için hangi yöntem kullanılabilir?",
+        "secenekler": [
+            "A) DNSSEC",
+            "B) Dinamik ARP Denetimi (DAI)",
+            "C) MPLS",
+            "D) NAT"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "BILGI",
+        "zorluk": "Zor",
+        "soru": "9. XSS saldırısında saldırgan genellikle neyi hedef alır?",
+        "secenekler": [
+            "A) Sunucu üzerindeki işletim sistemi",
+            "B) Kullanıcının tarayıcısı",
+            "C) Ağ trafiği yönlendirmesi",
+            "D) Veri tabanı motoru"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "BILGI",
+        "zorluk": "Zor",
+        "soru": "10. Bir saldırı zincirinde “lateral movement” aşaması neyi ifade eder?",
+        "secenekler": [
+            "A) İlk erişim elde edilmesi",
+            "B) Ağ içinde yatay olarak farklı sistemlere yayılma",
+            "C) Açık keşfi",
+            "D) Verilerin dışarı aktarılması"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "C++",
+        "zorluk": "Kolay",
+        "soru": "1. C++’ta ekrana çıktı vermek için hangi komut kullanılır?",
+        "secenekler": [
+            "A) cout <<",
+            "B) print()",
+            "C) echo",
+            "D) printf"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "C++",
+        "zorluk": "Kolay",
+        "soru": "2. C++ dosya uzantısı nedir?",
+        "secenekler": [
+            "A) .cp",
+            "B) .cpp",
+            "C) .cplus",
+            "D) .hpp"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "C++",
+        "zorluk": "Kolay",
+        "soru": "3. Aşağıdaki veri tiplerinden hangisi tam sayı tutar?",
+        "secenekler": [
+            "A) float",
+            "B) int",
+            "C) char",
+            "D) bool"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "C++",
+        "zorluk": "Kolay",
+        "soru": "4. C++’ta çok satırlı yorum bloğu nasıl yapılır?",
+        "secenekler": [
+            "A)",
+            "B) /* */",
+            "C) //",
+            "D) #comment"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "C++",
+        "zorluk": "Kolay",
+        "soru": "5. bool veri tipi hangi değerleri alır?",
+        "secenekler": [
+            "A) true/false",
+            "B) 0–100",
+            "C) “a”-“z”",
+            "D) reel sayı"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "C++",
+        "zorluk": "Kolay",
+        "soru": "6. using namespace std; ifadesi ne işe yarar?",
+        "secenekler": [
+            "A) Belleği temizler",
+            "B) std isim alanını kullanmayı kolaylaştırır",
+            "C) Derleyiciyi başlatır",
+            "D) Hata ayıklar"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "C++",
+        "zorluk": "Kolay",
+        "soru": "7. C++’ta döngü türü değildir?",
+        "secenekler": [
+            "A) while",
+            "B) loop",
+            "C) for",
+            "D) do-while"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "C++",
+        "zorluk": "Kolay",
+        "soru": "8. Aşağıdaki operatörlerden hangisi karşılaştırma operatörüdür?",
+        "secenekler": [
+            "A) =",
+            "B) ==",
+            "C) +",
+            "D) ++"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "C++",
+        "zorluk": "Kolay",
+        "soru": "9. char veri tipi ne saklar?",
+        "secenekler": [
+            "A) Tek karakter",
+            "B) Sayılar",
+            "C) Metinler",
+            "D) Boolean"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "C++",
+        "zorluk": "Kolay",
+        "soru": "10. Dizi tanımı hangisidir?",
+        "secenekler": [
+            "A) int dizi;",
+            "B) int dizi[10];",
+            "C) array dizi;",
+            "D) list dizi;"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "C++",
+        "zorluk": "Orta",
+        "soru": "1. Aşağıdaki fonksiyon tanımı doğrudur?",
+        "secenekler": [
+            "A) func(int a){ }",
+            "B) void func(int a) { }",
+            "C) function func(int a){ }",
+            "D) def func(int a){ }"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "C++",
+        "zorluk": "Orta",
+        "soru": "2. C++’ta referans nasıl tanımlanır?",
+        "secenekler": [
+            "A) int &x = y;",
+            "B) int ref x;",
+            "C) reference x=y;",
+            "D) int *refx;"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "C++",
+        "zorluk": "Orta",
+        "soru": "3. new operatörü ne yapar?",
+        "secenekler": [
+            "A) Yeni sınıf oluşturur",
+            "B) Bellekten dinamik yer ayırır",
+            "C) Fonksiyonu çağırır",
+            "D) Döngüyü sonlandırır"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "C++",
+        "zorluk": "Orta",
+        "soru": "4. delete operatörü ne yapar?",
+        "secenekler": [
+            "A) Nesneyi siler",
+            "B) Dinamik belleği serbest bırakır",
+            "C) Dosyayı siler",
+            "D) İşlemi durdurur"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "C++",
+        "zorluk": "Orta",
+        "soru": "5. Overloading hangi durumdur?",
+        "secenekler": [
+            "A) Aynı isimli fonksiyonların farklı parametrelerle tanımlanması",
+            "B) Farklı sınıfların birleşmesi",
+            "C) Aynı kodun iki kez derlenmesi",
+            "D) Sınıf içinde gizleme"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "C++",
+        "zorluk": "Orta",
+        "soru": "6. Aşağıdakilerden hangisi sınıf erişim belirleyicisidir?",
+        "secenekler": [
+            "A) open",
+            "B) public",
+            "C) allow",
+            "D) define"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "C++",
+        "zorluk": "Orta",
+        "soru": "7. virtual anahtar kelimesi ne için kullanılır?",
+        "secenekler": [
+            "A) Static fonksiyon tanımlar",
+            "B) Çok biçimlilik sağlar",
+            "C) Derlemeyi hızlandırır",
+            "D) Dosya açar"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "C++",
+        "zorluk": "Orta",
+        "soru": "8. Pointer’ın gösterdiği değeri almak için kullanılan operatör?",
+        "secenekler": [
+            "A) &",
+            "B) @",
+            "C) *",
+            "D) #"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "C++",
+        "zorluk": "Orta",
+        "soru": "9. std::vector hangi STL yapısıdır?",
+        "secenekler": [
+            "A) Stack",
+            "B) Dinamik dizi",
+            "C) Kuyruk",
+            "D) Set"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "C++",
+        "zorluk": "Orta",
+        "soru": "10. try-catch yapısı ne için kullanılır?",
+        "secenekler": [
+            "A) Döngü",
+            "B) Koşul",
+            "C) Hata yakalama",
+            "D) Bellek temizleme"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "C++",
+        "zorluk": "Zor",
+        "soru": "1. Move semantics hangi operatörle tanımlanır?",
+        "secenekler": [
+            "A) =",
+            "B) ->",
+            "C) &&",
+            "D) **"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "C++",
+        "zorluk": "Zor",
+        "soru": "2. Template fonksiyonlar ne sağlar?",
+        "secenekler": [
+            "A) Çoklu kalıtım",
+            "B) Türden bağımsız kod",
+            "C) Bellek yönetimi",
+            "D) Paralel çalışma"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "C++",
+        "zorluk": "Zor",
+        "soru": "3. Pure virtual fonksiyon nasıl tanımlanır?",
+        "secenekler": [
+            "A) virtual void f() {};",
+            "B) void f() = 0;",
+            "C) virtual void f() = 0;",
+            "D) abstract f();"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "C++",
+        "zorluk": "Zor",
+        "soru": "4. Smart pointer türü değildir?",
+        "secenekler": [
+            "A) unique_ptr",
+            "B) auto_ptr",
+            "C) shared_ptr",
+            "D) magic_ptr"
+        ],
+        "dogru_cevap": "D"
+    },
+    {
+        "kategori": "C++",
+        "zorluk": "Zor",
+        "soru": "5. Mutex ne işe yarar?",
+        "secenekler": [
+            "A) Bellek yönetimi",
+            "B) Çoklu thread erişimini kontrol eder",
+            "C) Derlemeyi hızlandırır",
+            "D) Dosya okur"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "C++",
+        "zorluk": "Zor",
+        "soru": "6. RAII prensibi neyi amaçlar?",
+        "secenekler": [
+            "A) Dosya sistemi",
+            "B) Kaynakların otomatik yönetimi",
+            "C) Sınıf gizleme",
+            "D) Çok biçimlilik"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "C++",
+        "zorluk": "Zor",
+        "soru": "7. Lambda ifadeleri hangi sembolle başlar?",
+        "secenekler": [
+            "A) []",
+            "B) ()",
+            "C) {}",
+            "D) <>"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "C++",
+        "zorluk": "Zor",
+        "soru": "8. constexpr ne yapar?",
+        "secenekler": [
+            "A) Derleme zamanında hesaplama",
+            "B) Runtime hata yakalama",
+            "C) Pointer dönüşümü",
+            "D) Thread oluşturma"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "C++",
+        "zorluk": "Zor",
+        "soru": "9. Multithreading kütüphanesi hangisidir?",
+        "secenekler": [
+            "A)",
+            "B)",
+            "C)",
+            "D)"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "C++",
+        "zorluk": "Zor",
+        "soru": "10. Sınıf içerisindeki static değişkenlerin ömrü?",
+        "secenekler": [
+            "A) Blok boyunca",
+            "B) Program sonuna kadar",
+            "C) Fonksiyon sonuna kadar",
+            "D) Nesne yok edilince"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "C",
+        "zorluk": "Kolay",
+        "soru": "1. C dilinde ekrana yazdırma fonksiyonu?",
+        "secenekler": [
+            "A) echo",
+            "B) print",
+            "C) printf",
+            "D) cout"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "C",
+        "zorluk": "Kolay",
+        "soru": "2. C dosya uzantısı?",
+        "secenekler": [
+            "A) .cc",
+            "B) .c",
+            "C) .cpp",
+            "D) .cs"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "C",
+        "zorluk": "Kolay",
+        "soru": "3. Hangisi temel veri tipidir?",
+        "secenekler": [
+            "A) string",
+            "B) list",
+            "C) int",
+            "D) var"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "C",
+        "zorluk": "Kolay",
+        "soru": "4. Tek satır yorum nasıl yapılır?",
+        "secenekler": [
+            "A)",
+            "B) //",
+            "C) #",
+            "D) /* */"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "C",
+        "zorluk": "Kolay",
+        "soru": "5. char kaç karakter tutar?",
+        "secenekler": [
+            "A) 1",
+            "B) 2",
+            "C) sınırsız",
+            "D) 255"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "C",
+        "zorluk": "Kolay",
+        "soru": "6 C’de string hangi veri tipi ile temsil edilir?",
+        "secenekler": [
+            "A) str",
+            "B) char[]",
+            "C) string",
+            "D) text"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "C",
+        "zorluk": "Kolay",
+        "soru": "7. Hangi döngü yoktur?",
+        "secenekler": [
+            "A) while",
+            "B) repeat",
+            "C) do-while",
+            "D) for"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "C",
+        "zorluk": "Kolay",
+        "soru": "8. %d hangi tür için kullanılır?",
+        "secenekler": [
+            "A) string",
+            "B) char",
+            "C) integer",
+            "D) float"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "C",
+        "zorluk": "Kolay",
+        "soru": "9. Dizinin ilk indexi?",
+        "secenekler": [
+            "A) 0",
+            "B) 1",
+            "C) -1",
+            "D) değişir"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "C",
+        "zorluk": "Kolay",
+        "soru": "10. Bellekte sabit değer tanımlamak için?",
+        "secenekler": [
+            "A) val",
+            "B) const",
+            "C) fix",
+            "D) lock"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "C",
+        "zorluk": "Orta",
+        "soru": "1. Pointer nasıl tanımlanır?",
+        "secenekler": [
+            "A) int pointer;",
+            "B) int *p;",
+            "C) pointer p;",
+            "D) var p;"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "C",
+        "zorluk": "Orta",
+        "soru": "2. Dinamik bellek için kullanılan fonksiyon?",
+        "secenekler": [
+            "A) malloc",
+            "B) memalloc",
+            "C) new",
+            "D) alloc"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "C",
+        "zorluk": "Orta",
+        "soru": "3. Belleği silmek için?",
+        "secenekler": [
+            "A) free",
+            "B) delete",
+            "C) remove",
+            "D) close"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "C",
+        "zorluk": "Orta",
+        "soru": "4. Komut satırından alınan argümanların fonksiyon prototipi?",
+        "secenekler": [
+            "A) main()",
+            "B) main(string[] args)",
+            "C) int main(int argc, char *argv[])",
+            "D) int main(void, char argv[])"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "C",
+        "zorluk": "Orta",
+        "soru": "5. struct ne sağlar?",
+        "secenekler": [
+            "A) döngü oluşturur",
+            "B) fonksiyon tanımlar",
+            "C) veri gruplar",
+            "D) pointer artırır"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "C",
+        "zorluk": "Orta",
+        "soru": "6. Aşağıdakilerden hangisi mantıksal operatördür?",
+        "secenekler": [
+            "A) +",
+            "B) &&",
+            "C) %",
+            "D) ="
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "C",
+        "zorluk": "Orta",
+        "soru": "7. Switch yapısında çoklu seçim için gerekli kelime?",
+        "secenekler": [
+            "A) choose",
+            "B) pick",
+            "C) case",
+            "D) sel"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "C",
+        "zorluk": "Orta",
+        "soru": "8. typedef ne yapar?",
+        "secenekler": [
+            "A) yeni veri türü takma adı verir",
+            "B) fonksiyon çağırır",
+            "C) modül ekler",
+            "D) dosya açar"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "C",
+        "zorluk": "Orta",
+        "soru": "9. fopen(\"a.txt\",\"w\"); ne yapar?",
+        "secenekler": [
+            "A) okur",
+            "B) siler",
+            "C) yazar",
+            "D) kapatır"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "C",
+        "zorluk": "Orta",
+        "soru": "10. Hangi fonksiyon dizi uzunluğu vermez?",
+        "secenekler": [
+            "A) sizeof",
+            "B) strlen",
+            "C) len",
+            "D) hiçbirisi"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "CSHARP",
+        "zorluk": "Kolay",
+        "soru": "1.C# dosya uzantısı?",
+        "secenekler": [
+            "a) .cs",
+            "b) .csharp",
+            "c) .shp",
+            "d) .cp"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "CSHARP",
+        "zorluk": "Kolay",
+        "soru": "2. Ekrana yazdırmak için?",
+        "secenekler": [
+            "a) print",
+            "b) Console.WritLine",
+            "c) writeln",
+            "d) echo"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "CSHARP",
+        "zorluk": "Kolay",
+        "soru": "3.\tHangisi değer tipidir?",
+        "secenekler": [
+            "a) string",
+            "b) class",
+            "c) int",
+            "d) array"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "CSHARP",
+        "zorluk": "Kolay",
+        "soru": "4.\tC# hangi platform içindir?",
+        "secenekler": [
+            "a) JVM",
+            "b) CLR",
+            "c) GCC",
+            "d) PYTHON"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "CSHARP",
+        "zorluk": "Kolay",
+        "soru": "5.\t// ne yapar?",
+        "secenekler": [
+            "a) Bölüm",
+            "b) Yorum",
+            "c) Koşul",
+            "d) Dönüş"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "CSHARP",
+        "zorluk": "Kolay",
+        "soru": "6.\tHangi döngü yoktur?",
+        "secenekler": [
+            "a) for",
+            "b) while",
+            "c) until",
+            "d) foreach"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "CSHARP",
+        "zorluk": "Kolay",
+        "soru": "7.\tBoolean değeri nedir?",
+        "secenekler": [
+            "a) yes/no",
+            "b) 0/1",
+            "c) true/false",
+            "d) open/close"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "CSHARP",
+        "zorluk": "Kolay",
+        "soru": "8.\tDizi tanımı?",
+        "secenekler": [
+            "a) int[] d;",
+            "b) arry d;",
+            "c) list d;",
+            "d) newarr"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "CSHARP",
+        "zorluk": "Kolay",
+        "soru": "9.\tNamespace ne içindir?",
+        "secenekler": [
+            "a) Döngü",
+            "b) Hata",
+            "c) Düzenleme",
+            "d) İsim Alanı"
+        ],
+        "dogru_cevap": "D"
+    },
+    {
+        "kategori": "CSHARP",
+        "zorluk": "Kolay",
+        "soru": "10. Sınıf tanımı?",
+        "secenekler": [
+            "a) class A{}",
+            "b) define A",
+            "c) struct A",
+            "d) newClass A"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "CSHARP",
+        "zorluk": "Orta",
+        "soru": "1. Özellik (property) hangi yapıdır?",
+        "secenekler": [
+            "A) get/set",
+            "B) loop",
+            "C) pointer",
+            "D) type"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "CSHARP",
+        "zorluk": "Orta",
+        "soru": "2. Interface nasıl tanımlanır?",
+        "secenekler": [
+            "A) interfaceITest",
+            "B) classinterface",
+            "C) moduleITest",
+            "D) abstractITest"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "CSHARP",
+        "zorluk": "Orta",
+        "soru": "3. using ne sağlar?",
+        "secenekler": [
+            "A) otomatik bellek",
+            "B) namespace ekleme",
+            "C) döngü",
+            "D) şart"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "CSHARP",
+        "zorluk": "Orta",
+        "soru": "4. List hangi yapıdadır?",
+        "secenekler": [
+            "A) Array",
+            "B) Generic koleksiyon",
+            "C) Dict",
+            "D) Queue"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "CSHARP",
+        "zorluk": "Orta",
+        "soru": "5.\tException türü?",
+        "secenekler": [
+            "A) Error404",
+            "B) IOException",
+            "C) Fail",
+            "D) Break"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "CSHARP",
+        "zorluk": "Orta",
+        "soru": "6.\tAsenkron programlama anahtar kelimesi?",
+        "secenekler": [
+            "A) async",
+            "B) thread",
+            "C) wait",
+            "D) delay"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "CSHARP",
+        "zorluk": "Orta",
+        "soru": "7.\tLINQ hangi amaçla kullanılır?",
+        "secenekler": [
+            "A) Dosya İşlemi",
+            "B) Veri Sorgulama",
+            "C) UI Çizimi",
+            "D) Networking"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "CSHARP",
+        "zorluk": "Orta",
+        "soru": "8. C# erişim belirleyicisi değildir?",
+        "secenekler": [
+            "A) Public",
+            "B) İnternal",
+            "C) Protected",
+            "D) Visible"
+        ],
+        "dogru_cevap": "D"
+    },
+    {
+        "kategori": "CSHARP",
+        "zorluk": "Orta",
+        "soru": "9. override ne yapar?",
+        "secenekler": [
+            "A) Yeni sınıf üretir",
+            "B) Sanal fonksiyonu değiştirir",
+            "C) Kopya oluşturur",
+            "D) Derler"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "CSHARP",
+        "zorluk": "Orta",
+        "soru": "10. sealed sınıf?",
+        "secenekler": [
+            "A) Kalıtımı kapatır",
+            "B) Static yapar",
+            "C) Abstract yapar",
+            "D) İnterface ekler"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "CSHARP",
+        "zorluk": "Zor",
+        "soru": "1.\tBoxing nedir?",
+        "secenekler": [
+            "A) int → string",
+            "B) value → reference",
+            "C) class → struct",
+            "D) heap→stack"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "CSHARP",
+        "zorluk": "Zor",
+        "soru": "2.\tDelegates neyi temsil eder?",
+        "secenekler": [
+            "A) pointer",
+            "B) fonksiyon referansı",
+            "C) sınıf B",
+            "D) namespace"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "CSHARP",
+        "zorluk": "Zor",
+        "soru": "3.\tEvent hangi yapıdır?",
+        "secenekler": [
+            "A) abstract",
+            "B) notification mekanizması",
+            "C) interface",
+            "D) static"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "CSHARP",
+        "zorluk": "Zor",
+        "soru": "4. GarbageCollector ne zaman çalışır?",
+        "secenekler": [
+            "A) Her saniye",
+            "B) Bellek ihtiyacında",
+            "C) Program başında",
+            "D) Compile time"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "CSHARP",
+        "zorluk": "Zor",
+        "soru": "5. Thread-safe koleksiyon hangisidir?",
+        "secenekler": [
+            "A) List",
+            "B) Concurrent Dictionary",
+            "C) ArrayList",
+            "D) LinkedList"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "CSHARP",
+        "zorluk": "Zor",
+        "soru": "6.\tReflection hangi amaçla?",
+        "secenekler": [
+            "A) UI çizimi",
+            "B) SQL sorgu",
+            "C) runtime tip inceleme",
+            "D) ağ yönetimi"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "CSHARP",
+        "zorluk": "Zor",
+        "soru": "7.\tyieldreturn ne sağlar?",
+        "secenekler": [
+            "A) async çıkar",
+            "B) thread durdurur",
+            "C) garbage toplar",
+            "D) iterator oluşturur"
+        ],
+        "dogru_cevap": "D"
+    },
+    {
+        "kategori": "CSHARP",
+        "zorluk": "Zor",
+        "soru": "8.\tIDisposable ne içindir?",
+        "secenekler": [
+            "A) Kaynak serbest bırakma",
+            "B) Bellek ayırma",
+            "C) Matematiksel işlem",
+            "D) Paket yükleme"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "CSHARP",
+        "zorluk": "Zor",
+        "soru": "9.\tAttribute ne sağlar?",
+        "secenekler": [
+            "A) Kod açıklama",
+            "B) Metadata ekleme",
+            "C) Hafıza ölçme",
+            "D) Döngü kırma"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "CSHARP",
+        "zorluk": "Zor",
+        "soru": "10. SOLID’in S harfi nedir?",
+        "secenekler": [
+            "A) Smart",
+            "B) Singleresponsibility",
+            "C) Secure",
+            "D) Static"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "C",
+        "zorluk": "Zor",
+        "soru": "1. Hangi bellek alanı varsayılan global değişkenlerin saklandığı yerdir?",
+        "secenekler": [
+            "A) stack",
+            "B) heap",
+            "C) data segment",
+            "D) register"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "C",
+        "zorluk": "Zor",
+        "soru": "2. static global değişken ne yapar?",
+        "secenekler": [
+            "A) belleği siler",
+            "B) sadece bulunduğu dosyada erişilebilir olur",
+            "C) program sonlanınca silinir",
+            "D) değişkeni dondurur"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "C",
+        "zorluk": "Zor",
+        "soru": "3. “Dangling pointer” nedir?",
+        "secenekler": [
+            "A) null pointer",
+            "B) freed bellek adresine işaret eden pointer",
+            "C) global pointer",
+            "D) sıfır bölmesi"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "C",
+        "zorluk": "Zor",
+        "soru": "4. C dilinde fonksiyon işaretçisi doğru kullanım?",
+        "secenekler": [
+            "A) int f(*ptr);",
+            "B) int (*ptr)(int);",
+            "C) function ptr(int);",
+            "D) ptr->func;"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "C",
+        "zorluk": "Zor",
+        "soru": "5. Segmentation fault ne zaman olur?",
+        "secenekler": [
+            "A) yanlış dosya açma",
+            "B) yetkisiz bellek erişimi",
+            "C) derleme hatası",
+            "D) syntax error"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "C",
+        "zorluk": "Zor",
+        "soru": "6. volatile anahtar kelimesi ne içindir?",
+        "secenekler": [
+            "A) derleyicinin optimizasyonlarını kapatır",
+            "B) değişkeni artırır",
+            "C) pointer yapar",
+            "D) inline eder"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "C",
+        "zorluk": "Zor",
+        "soru": "7. Alignment neyle ilişkilidir?",
+        "secenekler": [
+            "A) bellekte veri hizalaması",
+            "B) döngü optimizasyonu",
+            "C) port adresleri",
+            "D) build sistemi"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "C",
+        "zorluk": "Zor",
+        "soru": "8. Buffer overflow neden olur?",
+        "secenekler": [
+            "A) küçük veri depolama",
+            "B) sınır aşımı",
+            "C) pointer sıfırı",
+            "D) tür dönüşümü"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "C",
+        "zorluk": "Zor",
+        "soru": "9. Inline fonksiyon bildirimi?",
+        "secenekler": [
+            "A) inline void f()",
+            "B) static inline int",
+            "C) inline function()",
+            "D) func inline"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "C",
+        "zorluk": "Zor",
+        "soru": "10. C dilinde çağrı yöntemi?",
+        "secenekler": [
+            "A) call-by-value",
+            "B) call-by-reference",
+            "C) her ikisi",
+            "D) hiçbiri"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "HT",
+        "zorluk": "Kolay",
+        "soru": "1. HTML açılımı nedir?",
+        "secenekler": [
+            "a) Hyperlinks Markup Language",
+            "b) HyperText Markup Language",
+            "c) HighText Modern Language",
+            "d) Hyper Tool Markup Language"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "HT",
+        "zorluk": "Kolay",
+        "soru": "2. Başlık etiketi nedir?",
+        "secenekler": [
+            "a) < p >",
+            "b) < title >",
+            "c) < head >",
+            "d) < h1 >"
+        ],
+        "dogru_cevap": "D"
+    },
+    {
+        "kategori": "HT",
+        "zorluk": "Kolay",
+        "soru": "3.\tParagraf etiketi nedir?",
+        "secenekler": [
+            "a) < pg >",
+            "b) < par >",
+            "c) < text >",
+            "d) < p >"
+        ],
+        "dogru_cevap": "D"
+    },
+    {
+        "kategori": "HT",
+        "zorluk": "Kolay",
+        "soru": "4.\tLink için hangisi kullanılır?",
+        "secenekler": [
+            "a) < a >",
+            "b) < link >",
+            "c) < goto>",
+            "d) < url >"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "HT",
+        "zorluk": "Kolay",
+        "soru": "5.\tGörsel etiketi için hangisi kullanılır?",
+        "secenekler": [
+            "a) < pic >",
+            "b) < image >",
+            "c) < img >",
+            "d) < media >"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "HT",
+        "zorluk": "Kolay",
+        "soru": "6.\tSatır kırma için hangisi kullanılır?",
+        "secenekler": [
+            "a) < lb >",
+            "b) < line >",
+            "c) < space >",
+            "d) < br >"
+        ],
+        "dogru_cevap": "D"
+    },
+    {
+        "kategori": "HT",
+        "zorluk": "Kolay",
+        "soru": "7.\tListe için hangisi kullanılır?",
+        "secenekler": [
+            "a) < list >",
+            "b) < ul >",
+            "c) < ls >",
+            "d) < block >"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "HT",
+        "zorluk": "Kolay",
+        "soru": "8.\tTablolar içinde satır yapmak için hangisi kullanılır?",
+        "secenekler": [
+            "a) < tr >",
+            "b) < td >",
+            "c) < th >",
+            "d) < row >"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "HT",
+        "zorluk": "Kolay",
+        "soru": "9.\tMetadata hangi bölümde kullanılır?",
+        "secenekler": [
+            "a) < body >",
+            "b) < section >",
+            "c) < head >",
+            "d) < footer >"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "HT",
+        "zorluk": "Kolay",
+        "soru": "10. İçeriği anlaşılmaz bir formata dönüştürme işlemine ne ad verilir?",
+        "secenekler": [
+            "a) < wide >",
+            "b) < strong >",
+            "c) < b1 >",
+            "d) < bold >"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "HT",
+        "zorluk": "Orta",
+        "soru": "1. HTML5 form etiketi hangisidir?",
+        "secenekler": [
+            "A) < forms >",
+            "B) < fieldset >",
+            "C) < form >",
+            "D) < input >"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "HT",
+        "zorluk": "Orta",
+        "soru": "2. Text input hangisidir?",
+        "secenekler": [
+            "A) < input type=\"text\" >",
+            "B) < form-text >",
+            "C) < txt >",
+            "D) < field >"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "HT",
+        "zorluk": "Orta",
+        "soru": "3. Tablonun hücresi için hangisi kullanılır?",
+        "secenekler": [
+            "A) < td >",
+            "B) < row >",
+            "C) < box >",
+            "D) < hcell >"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "HT",
+        "zorluk": "Orta",
+        "soru": "4. CSS bağlama için hangisi kullanılır?",
+        "secenekler": [
+            "A) < css >",
+            "B) < import >",
+            "C) < link rel=\"stylesheet\">",
+            "D) < style src=\"\" >"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "HT",
+        "zorluk": "Orta",
+        "soru": "5. Script ekleme için hangisi kullanılır?",
+        "secenekler": [
+            "A) < java > < java/ >",
+            "B) < script > < script/ >",
+            "C) < exec > < exec/ >",
+            "D) < run > < run/ >"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "HT",
+        "zorluk": "Orta",
+        "soru": "6. HTML5 semantik etiketi hangisidir?",
+        "secenekler": [
+            "A) < div >",
+            "B) < span >",
+            "C) < b >",
+            "D) < section >"
+        ],
+        "dogru_cevap": "D"
+    },
+    {
+        "kategori": "HT",
+        "zorluk": "Orta",
+        "soru": "7.Placeholder hangi öğede var?",
+        "secenekler": [
+            "A) < p >",
+            "B) < div >",
+            "C) < input >",
+            "D) < h3 >"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "HT",
+        "zorluk": "Orta",
+        "soru": "8. Video etiketi için hangisi kullanılır?",
+        "secenekler": [
+            "A) < video >< mov >",
+            "B) < media >",
+            "C) < mov >",
+            "D) < mp4 >"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "HT",
+        "zorluk": "Orta",
+        "soru": "9.Audio etiketi için hangisi kullanılır?",
+        "secenekler": [
+            "A) < sound >",
+            "B) < listen >",
+            "C) < audio >",
+            "D) < mp3 >"
+        ],
+        "dogru_cevap": "D"
+    },
+    {
+        "kategori": "HT",
+        "zorluk": "Orta",
+        "soru": "10. Responsive tasarım etiketi?",
+        "secenekler": [
+            "A) < responsive >",
+            "B) < meta viewport >",
+            "C) < mobile >",
+            "D) < size >"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "HT",
+        "zorluk": "Zor",
+        "soru": "1. Canvas etiketi için hangisi kullanılır ?",
+        "secenekler": [
+            "A) < graphic >",
+            "B) < canvas >",
+            "C) < draw >",
+            "D) < paint >"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "HT",
+        "zorluk": "Zor",
+        "soru": "2. LocalStorage hangi API’ye aittir?",
+        "secenekler": [
+            "A) DOM Storage",
+            "B) HTML Graphics",
+            "C) CSS Flex",
+            "D) WebGL"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "HT",
+        "zorluk": "Zor",
+        "soru": "3. ARIA ne sağlar?",
+        "secenekler": [
+            "A) performans",
+            "B) resim sıkıştırma",
+            "C) erişilebilirlik",
+            "D) SEO"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "HT",
+        "zorluk": "Zor",
+        "soru": "4. Data attribute?",
+        "secenekler": [
+            "A) data:*",
+            "B) data-…",
+            "C) d-attr",
+            "D) attribute-data"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "HT",
+        "zorluk": "Zor",
+        "soru": "5. SEO için en önemli etiket?",
+        "secenekler": [
+            "A) < title >",
+            "B) < div> >",
+            "C) < span >",
+            "D) < root >"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "HT",
+        "zorluk": "Zor",
+        "soru": "6. Shadow DOM ne sağlar?",
+        "secenekler": [
+            "A) hız",
+            "B) hosting",
+            "C) daha iyi grafik",
+            "D) izolasyon"
+        ],
+        "dogru_cevap": "D"
+    },
+    {
+        "kategori": "HT",
+        "zorluk": "Zor",
+        "soru": "7. input type=”number” ne sağlar?",
+        "secenekler": [
+            "A) metin girişi",
+            "B) dosya yükleme",
+            "C) sayı girişi",
+            "D) desen giriş"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "HT",
+        "zorluk": "Zor",
+        "soru": "8. < meta charset=\"UTF-8\" > ne sağlar?",
+        "secenekler": [
+            "A) karakter kodlama",
+            "B) yazı tipi",
+            "C) CSS yükler",
+            "D) JS yükler"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "HT",
+        "zorluk": "Zor",
+        "soru": "9. Table caption etiketi için hangisi kullanılır?",
+        "secenekler": [
+            "A) < tablehead >",
+            "B) < title >",
+            "C) < caption >",
+            "D) < th >"
+        ],
+        "dogru_cevap": "D"
+    },
+    {
+        "kategori": "HT",
+        "zorluk": "Zor",
+        "soru": "10. HTML’de boş eleman için hangisi kullanılır?",
+        "secenekler": [
+            "A) < p >",
+            "B) < img >",
+            "C) < h1 >",
+            "D) < table >"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "JAVA",
+        "zorluk": "Kolay",
+        "soru": "1. Java dosya uzantısı hangisidir?",
+        "secenekler": [
+            "a) .jav",
+            "b) .java",
+            "c) .jv",
+            "d) .j"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "JAVA",
+        "zorluk": "Kolay",
+        "soru": "2. Java programları hangi makinede çalışır?",
+        "secenekler": [
+            "a) CLR",
+            "b) JVM",
+            "c) GCC",
+            "d) CPython"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "JAVA",
+        "zorluk": "Kolay",
+        "soru": "3. Ekrana yazı yazdırmak için?",
+        "secenekler": [
+            "a) print()",
+            "b) echo()",
+            "c) System.out.println()",
+            "d) writeln()"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "JAVA",
+        "zorluk": "Kolay",
+        "soru": "4. Tek yorum satırı nedir?",
+        "secenekler": [
+            "a) /* */",
+            "b)  #",
+            "c)",
+            "d) //"
+        ],
+        "dogru_cevap": "D"
+    },
+    {
+        "kategori": "JAVA",
+        "zorluk": "Kolay",
+        "soru": "5. Hangisi Java ilkel tipidir?",
+        "secenekler": [
+            "a) String",
+            "b) İnt",
+            "c) List",
+            "d) Scanner"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "JAVA",
+        "zorluk": "Kolay",
+        "soru": "6. Hangisi döngüdür?",
+        "secenekler": [
+            "a) repeat",
+            "b) foreach",
+            "c) until",
+            "d) goto"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "JAVA",
+        "zorluk": "Kolay",
+        "soru": "7. String hangi pakettedir?",
+        "secenekler": [
+            "a) java.text",
+            "b) java.lang",
+            "c) java.io",
+            "d) java.util"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "JAVA",
+        "zorluk": "Kolay",
+        "soru": "8. Dizilerde ilk indeks?",
+        "secenekler": [
+            "a) -1",
+            "b) 1",
+            "c) 0",
+            "d) Değişir"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "JAVA",
+        "zorluk": "Kolay",
+        "soru": "9. Boolean veri tipi hangi değerleri alır?",
+        "secenekler": [
+            "a) Yes/No",
+            "b) 0-100",
+            "c) True/False",
+            "d) 1-0-null"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "JAVA",
+        "zorluk": "Kolay",
+        "soru": "10. Java’da sınıf nasıl tanımlanır?",
+        "secenekler": [
+            "a) class A {}",
+            "b) new A {}",
+            "c) define A {}",
+            "d) type A {}"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "JAVA",
+        "zorluk": "Orta",
+        "soru": "1. Constructor’ın adı ne olmak zorundadır?",
+        "secenekler": [
+            "A) Dosya adı",
+            "B) Sınıf adı",
+            "C) Metot adı",
+            "D) Paket adı"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "JAVA",
+        "zorluk": "Orta",
+        "soru": "2. this anahtar kelimesi neyi ifade eder?",
+        "secenekler": [
+            "A) alt sınıf",
+            "B) global değişken",
+            "C) mevcut nesne",
+            "D) paket ismi"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "JAVA",
+        "zorluk": "Orta",
+        "soru": "3. Kalıtım hangi anahtar kelime ile yapılır?",
+        "secenekler": [
+            "A) extend",
+            "B) extends",
+            "C) inherit",
+            "D) childof"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "JAVA",
+        "zorluk": "Orta",
+        "soru": "4. Kalıtım hangi anahtar kelime ile yapılır?",
+        "secenekler": [
+            "A) apply",
+            "B) inherit",
+            "C) implements",
+            "D) instance"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "JAVA",
+        "zorluk": "Orta",
+        "soru": "5. Method Overloading nedir?",
+        "secenekler": [
+            "A) Aynı isim - farklı parametre",
+            "B) Aynı sınıfı iki kez yazmak",
+            "C) Aynı isim - aynı parametre",
+            "D) Alt sınıfta değiştirmek"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "JAVA",
+        "zorluk": "Orta",
+        "soru": "6. Method Overriding nedir?",
+        "secenekler": [
+            "A) Aynı isim - farklı sınıf",
+            "B) Alt sınıfın üst sınıf metodunu değiştirmesi",
+            "C) Parametre artırma",
+            "D) Dizi taşması"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "JAVA",
+        "zorluk": "Orta",
+        "soru": "7. import ne içindir?",
+        "secenekler": [
+            "A) Sınıf oluşturma",
+            "B) Paket dahil etme",
+            "C) Değişken tanımı",
+            "D) Kalıtım"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "JAVA",
+        "zorluk": "Orta",
+        "soru": "8. final değişken ne sağlar?",
+        "secenekler": [
+            "A) indirime kapalı",
+            "B) sabit",
+            "C) gizli",
+            "D) dinamik"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "JAVA",
+        "zorluk": "Orta",
+        "soru": "9. Hata yakalama hangi blokla yapılır?",
+        "secenekler": [
+            "A) except",
+            "B) try-catch",
+            "C) error-block",
+            "D) attempt"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "JAVA",
+        "zorluk": "Orta",
+        "soru": "10. Koleksiyon sınıfları hangi pakettedir?",
+        "secenekler": [
+            "A) java.lang",
+            "B) java.collections",
+            "C) java.util",
+            "D) java.data"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "JAVA",
+        "zorluk": "Zor",
+        "soru": "1. Java’da garbagecollector ne zaman çalışır?",
+        "secenekler": [
+            "A) Elle tetikleyince",
+            "B) JVM uygun görünce",
+            "C) compile-time",
+            "D) Program bitince"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "JAVA",
+        "zorluk": "Zor",
+        "soru": "2. Hangisi soyut bir sınıftır?",
+        "secenekler": [
+            "A) final sınıf",
+            "B) class A {}",
+            "C) abstractclass A {}",
+            "D) abstractclass A {}"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "JAVA",
+        "zorluk": "Zor",
+        "soru": "3. Lambda fonksiyonlarının sembolü?",
+        "secenekler": [
+            "A) ->",
+            "B) =>",
+            "C) ~~>",
+            "D) <>"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "JAVA",
+        "zorluk": "Zor",
+        "soru": "4. Generics ne sağlar?",
+        "secenekler": [
+            "A) Hızlandırır",
+            "B) Tip güvenliği",
+            "C) Çoklu thread",
+            "D) Dosya erişimi"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "JAVA",
+        "zorluk": "Zor",
+        "soru": "5. Java’da çoklu kalıtım hangi yapıyla sağlanır?",
+        "secenekler": [
+            "A) class",
+            "B) interface",
+            "C) enum",
+            "D) struct"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "JAVA",
+        "zorluk": "Zor",
+        "soru": "6. Hangisi thread oluşturmanın yoludur?",
+        "secenekler": [
+            "A) class A implements Runnable",
+            "B) class A extends Thread",
+            "C) her ikisi",
+            "D) Hiçbiri"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "JAVA",
+        "zorluk": "Zor",
+        "soru": "7. Reflection hangi pakettedir?",
+        "secenekler": [
+            "A) java.language",
+            "B) java.reflect",
+            "C) java.core",
+            "D) java.debug"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "JAVA",
+        "zorluk": "Zor",
+        "soru": "8. JVM’destack ne içerir?",
+        "secenekler": [
+            "A) Nesneler",
+            "B) Referanslar",
+            "C) Sınıf kodları",
+            "D) Bytecode"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "JAVA",
+        "zorluk": "Zor",
+        "soru": "9. Enum nedir?",
+        "secenekler": [
+            "A) Nesne üretimi",
+            "B) Sabitler kümesi",
+            "C) Özel dizi",
+            "D) Özel sınıf türü"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "JAVA",
+        "zorluk": "Zor",
+        "soru": "10. Serializable arayüzü ne sağlar?",
+        "secenekler": [
+            "A) Ağ bağlantısı",
+            "B) Dosya yazma",
+            "C) Nesnenin byte a çevrilmesi",
+            "D) Çoklu thread"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "PHP",
+        "zorluk": "Kolay",
+        "soru": "1.\tPHP dosya uzantısı?",
+        "secenekler": [
+            "a) .ph",
+            "b) .php",
+            "c) .pp",
+            "d) .phtml"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "PHP",
+        "zorluk": "Kolay",
+        "soru": "2.\tEcho ne yapar?",
+        "secenekler": [
+            "a) input alır",
+            "b) çıktı verir",
+            "c) dosya okur",
+            "d) CSS ekler"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "PHP",
+        "zorluk": "Kolay",
+        "soru": "3.\tPHP'de değişken işareti?",
+        "secenekler": [
+            "a) @",
+            "b) #",
+            "c) $",
+            "d) %"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "PHP",
+        "zorluk": "Kolay",
+        "soru": "4.\tString birleştirme operatörü?",
+        "secenekler": [
+            "a) +",
+            "b) .",
+            "c) :",
+            "d) ::"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "PHP",
+        "zorluk": "Kolay",
+        "soru": "5.\tHangisi süper globaldir?",
+        "secenekler": [
+            "a) $_POST",
+            "b) $global",
+            "c) $sup",
+            "d) $_COOKIEE"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "PHP",
+        "zorluk": "Kolay",
+        "soru": "6.\tFonksiyon nasıl yazılır?",
+        "secenekler": [
+            "a) function f(){}",
+            "b) def f(){}",
+            "c) fn f(){}",
+            "d) voidf(){}"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "PHP",
+        "zorluk": "Kolay",
+        "soru": "7.\tDizi nasıl oluşturulur?",
+        "secenekler": [
+            "a) []",
+            "b) {}",
+            "c) array()",
+            "d) arr()"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "PHP",
+        "zorluk": "Kolay",
+        "soru": "8. Hangisi koşul ifadesidir?",
+        "secenekler": [
+            "a) case",
+            "b) else",
+            "c) if",
+            "d) for"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "PHP",
+        "zorluk": "Kolay",
+        "soru": "9. include ifadesi ne yapar?",
+        "secenekler": [
+            "a) Yorum ekler",
+            "b) Dosya dahil eder",
+            "c) Döngü oluşturur",
+            "d) Parser başlatır"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "PHP",
+        "zorluk": "Kolay",
+        "soru": "10. session başlatma hangisidir?",
+        "secenekler": [
+            "a) start_session()",
+            "b) session_on()",
+            "c) begin_session()",
+            "d) session_start()"
+        ],
+        "dogru_cevap": "D"
+    },
+    {
+        "kategori": "PHP",
+        "zorluk": "Orta",
+        "soru": "1.\tPDO’nun açılımı?",
+        "secenekler": [
+            "A) Program Data Operation",
+            "B) PHP Data Objects",
+            "C) Personal Data Object",
+            "D) Pure Data Output"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "PHP",
+        "zorluk": "Orta",
+        "soru": "2.\tisset() ne yapar?",
+        "secenekler": [
+            "A) boş mu?",
+            "B) tanımlı mı?",
+            "C) dizi mi?",
+            "D) sayı mı?"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "PHP",
+        "zorluk": "Orta",
+        "soru": "3.\tJSON encode nedir?",
+        "secenekler": [
+            "A) string→json",
+            "B) json→array",
+            "C) json→xml",
+            "D) xml→json"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "PHP",
+        "zorluk": "Orta",
+        "soru": "4.\tHangisi hata seviyesidir",
+        "secenekler": [
+            "A) ERROR_ALL",
+            "B) E_ALL",
+            "C) ALL_ERROR",
+            "D) PHP_ERR"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "PHP",
+        "zorluk": "Orta",
+        "soru": "5.\trequire ile include farkı?",
+        "secenekler": [
+            "A) require başarısız olursa fatal error",
+            "B) include daha hızlı",
+            "C) include zorunlu",
+            "D) require değişken oluşturur"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "PHP",
+        "zorluk": "Orta",
+        "soru": "6.\t$_FILES hangi işte kullanılır?",
+        "secenekler": [
+            "A) JSON",
+            "B) dosya yükleme",
+            "C) cookie",
+            "D) session"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "PHP",
+        "zorluk": "Orta",
+        "soru": "7.\tforeach hangi yapı üzerinde çalışır?",
+        "secenekler": [
+            "A) integer",
+            "B) boolean",
+            "C) array",
+            "D) none"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "PHP",
+        "zorluk": "Orta",
+        "soru": "8.\tHeader ne işe yarar?",
+        "secenekler": [
+            "A) HTML yazar",
+            "B) HTTP yanıtı kontrol eder",
+            "C) pointer oluşturur",
+            "D) log tutar"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "PHP",
+        "zorluk": "Orta",
+        "soru": "9.\texplode() ne yapar?",
+        "secenekler": [
+            "A) string birleştirir",
+            "B) string böler",
+            "C) string ters çevirir",
+            "D) şifreler"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "PHP",
+        "zorluk": "Orta",
+        "soru": "10. filter_var ne içindir?",
+        "secenekler": [
+            "A) hashing",
+            "B) doğrulama",
+            "C) veritabanı",
+            "D) döngü"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "PHP",
+        "zorluk": "Zor",
+        "soru": "1.\tpreparedstatement ne sağlar?",
+        "secenekler": [
+            "A) Hız",
+            "B) İnjection koruması",
+            "C) Dosya yönetimi",
+            "D) Json desteği"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "PHP",
+        "zorluk": "Zor",
+        "soru": "2.\ttrait ne sağlar?",
+        "secenekler": [
+            "A) çoklu kalıtım",
+            "B) modül yükleme",
+            "C) veritabanı bağlama",
+            "D) interface genişletme"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "PHP",
+        "zorluk": "Zor",
+        "soru": "3.\tComposer ne sağlar?",
+        "secenekler": [
+            "A) CSS derleme",
+            "B) PHP paket yönetimi",
+            "C) HTML üretimi",
+            "D) session yönetimi"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "PHP",
+        "zorluk": "Zor",
+        "soru": "4.\t__destruct ne zaman çalışır?",
+        "secenekler": [
+            "A) program başında",
+            "B) nesne silinince",
+            "C) derleme zamanında",
+            "D) request olayında"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "PHP",
+        "zorluk": "Zor",
+        "soru": "5.\tNamespaces neyi çözer?",
+        "secenekler": [
+            "A) tip uyuşmazlığı",
+            "B) isim çakışması",
+            "C) döngü karmaşası",
+            "D) dosya boyutu"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "PHP",
+        "zorluk": "Zor",
+        "soru": "6.\tSanal makineler PHP’de hangi sürümde geldi?",
+        "secenekler": [
+            "A) PHP2",
+            "B) PHP4",
+            "C) PHP5",
+            "D) PHP7"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "PHP",
+        "zorluk": "Zor",
+        "soru": "7.\tAnonymous function?",
+        "secenekler": [
+            "A) isimsiz fonksiyon",
+            "B) gizli class",
+            "C) private constructor",
+            "D) static method"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "PHP",
+        "zorluk": "Zor",
+        "soru": "8.\tMVC’decontroller’ın görevi?",
+        "secenekler": [
+            "A) Veri tutmak",
+            "B) Görünüm oluşturmak",
+            "C) İstek yönlendirme",
+            "D) Css işlemek"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "PHP",
+        "zorluk": "Zor",
+        "soru": "9.\tPDO::FETCH_ASSOC ne döndürür?",
+        "secenekler": [
+            "A) obje",
+            "B) integer",
+            "C) sadece sütun adlarıyla dizi",
+            "D) sadece index’li dizi"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "PHP",
+        "zorluk": "Zor",
+        "soru": "10.\tMagic method değildir?",
+        "secenekler": [
+            "A) __construct",
+            "B) __get",
+            "C) __run",
+            "D) __set"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "PYSORU",
+        "zorluk": "Kolay",
+        "soru": "1. Python’da ekrana yazdırma hangi komutla yapılır?",
+        "secenekler": [
+            "A) echo",
+            "B) print()",
+            "C) write()",
+            "D) show()"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "PYSORU",
+        "zorluk": "Kolay",
+        "soru": "2. Python uzantılı dosya hangisidir?",
+        "secenekler": [
+            "A) .txt",
+            "B) .py",
+            "C) .exe",
+            "D) .java"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "PYSORU",
+        "zorluk": "Kolay",
+        "soru": "3. Python’da yorum satırı hangi karakterle başlar?",
+        "secenekler": [
+            "A) //",
+            "B) !-",
+            "C) #",
+            "D) **"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "PYSORU",
+        "zorluk": "Kolay",
+        "soru": "4. List hangi veri tipidir?",
+        "secenekler": [
+            "A) Değiştirilemez",
+            "B) Değiştirilebilir",
+            "C) Sadece sayıları içerir",
+            "D) Sadece metin içerir"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "PYSORU",
+        "zorluk": "Kolay",
+        "soru": "5. 3 + 2 * 2 işleminin sonucu nedir?",
+        "secenekler": [
+            "A) 10",
+            "B) 7",
+            "C) 9",
+            "D) 12"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "PYSORU",
+        "zorluk": "Kolay",
+        "soru": "6. Python’da string hangi tırnakla yazılabilir?",
+        "secenekler": [
+            "A) ' '",
+            "B) \" \"",
+            "C) Her ikisi",
+            "D) Hiçbiri"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "PYSORU",
+        "zorluk": "Kolay",
+        "soru": "7. len(\"abc\") sonucu kaçtır?",
+        "secenekler": [
+            "A) 1",
+            "B) 2",
+            "C) 3",
+            "D) 4"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "PYSORU",
+        "zorluk": "Kolay",
+        "soru": "8. input() fonksiyonu ne yapar?",
+        "secenekler": [
+            "A) Ekrana yazdırır",
+            "B) Kullanıcıdan veri alır",
+            "C) Programı kapatır",
+            "D) Dosya oluşturur"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "PYSORU",
+        "zorluk": "Kolay",
+        "soru": "9. Python’da toplu veri saklamak için kullanılan tür hangisidir?",
+        "secenekler": [
+            "A) int",
+            "B) list",
+            "C) float",
+            "D) bool"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "PYSORU",
+        "zorluk": "Kolay",
+        "soru": "10. type(10) çıktısı nedir?",
+        "secenekler": [
+            "A) int",
+            "B) float",
+            "C) str",
+            "D) bool"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "PYSORUORTAA.HTML",
+        "zorluk": "Orta",
+        "soru": "1. enumerate() fonksiyonu ne döndürür?",
+        "secenekler": [
+            "A) Sadece indeksi",
+            "B) Sadece değeri",
+            "C) Hem indeks hem değeri",
+            "D) Hiçbir şey"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "PYSORUORTAA.HTML",
+        "zorluk": "Orta",
+        "soru": "2. List comprehension ne sağlar?",
+        "secenekler": [
+            "A) Daha yavaş liste oluşturma",
+            "B) Kısa ve hızlı liste oluşturma",
+            "C) Veri tabanı bağlantısı",
+            "D) Döngüleri kaldırma"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "PYSORUORTAA.HTML",
+        "zorluk": "Orta",
+        "soru": "3. Python’da set neyi garanti eder?",
+        "secenekler": [
+            "A) Sıralı veri",
+            "B) Tekrarsız eleman",
+            "C) Sayısal veri",
+            "D) Sadece metin saklama"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "PYSORUORTAA.HTML",
+        "zorluk": "Orta",
+        "soru": "4. map() fonksiyonu ne yapar?",
+        "secenekler": [
+            "A) Listeyi sıralar",
+            "B) Elemanlara fonksiyon uygular",
+            "C) Listeyi temizler",
+            "D) Döngüyü sonlandırır"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "PYSORUORTAA.HTML",
+        "zorluk": "Orta",
+        "soru": "5. lambda fonksiyonu nedir?",
+        "secenekler": [
+            "A) Sonsuz döngü",
+            "B) Anonim fonksiyon",
+            "C) Modül türü",
+            "D) Dosya formatı"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "PYSORUORTAA.HTML",
+        "zorluk": "Orta",
+        "soru": "6. *args ne anlama gelir?",
+        "secenekler": [
+            "A) Belirsiz sayıda anahtar kelimeli argüman",
+            "B) Belirsiz sayıda pozisyonel argüman",
+            "C) Döngüyü sonlandırma",
+            "D) Hata yakalama"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "PYSORUORTAA.HTML",
+        "zorluk": "Orta",
+        "soru": "7. Python’da exception yakalamak için hangi ifade kullanılır?",
+        "secenekler": [
+            "A) capture",
+            "B) error",
+            "C) try / except",
+            "D) run / catch"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "PYSORUORTAA.HTML",
+        "zorluk": "Orta",
+        "soru": "8. file = open(\"a.txt\",\"r\") komutu ne yapar?",
+        "secenekler": [
+            "A) Dosyayı siler",
+            "B) Dosyayı okuma modunda açar",
+            "C) Dosyaya yazar",
+            "D) Dosyayı kapatır"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "PYSORUORTAA.HTML",
+        "zorluk": "Orta",
+        "soru": "9. dict.keys() ne döndürür?",
+        "secenekler": [
+            "A) Değerleri",
+            "B) Anahtarları",
+            "C) Her ikisini",
+            "D) Liste"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "PYSORUORTAA.HTML",
+        "zorluk": "Orta",
+        "soru": "10. sorted([3,1,2]) sonucu nedir?",
+        "secenekler": [
+            "A) [3,2,1]",
+            "B) [1,2,3]",
+            "C) [2,3,1]",
+            "D) [1,3,2]"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "PYSORU",
+        "zorluk": "Zor",
+        "soru": "1.GIL (Global Interpreter Lock) neyi sınırlar?",
+        "secenekler": [
+            "A) Çoklu işlemci kullanımını",
+            "B) Aynı anda birden fazla thread’in bytecode çalıştırmasını",
+            "C) Bellek yönetimini",
+            "D) Modül yükleme hızını"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "PYSORU",
+        "zorluk": "Zor",
+        "soru": "2. asyncio hangi yapıyı sağlar?",
+        "secenekler": [
+            "A) Çok işlemcilik",
+            "B) Asenkron programlama",
+            "C) Donanım hızlandırma",
+            "D) Paket yönetimi"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "PYSORU",
+        "zorluk": "Zor",
+        "soru": "3.Decorator fonksiyonunun temel görevi nedir?",
+        "secenekler": [
+            "A) Modülü şifrelemek",
+            "B) Fonksiyon davranışını değiştirmek",
+            "C) Thread açmak",
+            "D) Sınıfları derlemek"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "PYSORU",
+        "zorluk": "Zor",
+        "soru": "4.Python’da descriptor hangi metodları içerir?",
+        "secenekler": [
+            "A) __get__, __set__, __delete__",
+            "B) __add__, __sub__",
+            "C) __init__, __del__",
+            "D) __call__, __new__"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "PYSORU",
+        "zorluk": "Zor",
+        "soru": "5. metaclass ne yapar?",
+        "secenekler": [
+            "A) Obje üretir",
+            "B) Sınıf üretir",
+            "C) Modül üretir",
+            "D) Bellek yönetir"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "PYSORU",
+        "zorluk": "Zor",
+        "soru": "6. deep copy ile shallow copy arasındaki fark nedir? /p>\n             A) Derin kopya tüm nesneleri kopyalar\n B) Yüzeysel kopya RAM’i çoğaltır\n C) Derin kopya daha hızlıdır\n D) Hiç fark yoktur",
+        "secenekler": [
+            "A) Derin kopya tüm nesneleri kopyalar",
+            "B) Yüzeysel kopya RAM’i çoğaltır",
+            "C) Derin kopya daha hızlıdır",
+            "D) Hiç fark yoktur"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "PYSORU",
+        "zorluk": "Zor",
+        "soru": "7.__slots__ ne işe yarar?",
+        "secenekler": [
+            "A) Bellek kullanımını azaltır",
+            "B) CPU hızını artırır",
+            "C) Derleme yapar",
+            "D) Disk kullanımını azaltır"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "PYSORU",
+        "zorluk": "Zor",
+        "soru": "8. asyncio'da await ne yapar?",
+        "secenekler": [
+            "A) Thread açar",
+            "B) Coroutine bekler",
+            "C) Hata yakalar",
+            "D) Kod derler"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "PYSORU",
+        "zorluk": "Zor",
+        "soru": "9.Python’da garbage collector hangi algoritmayı kullanır?",
+        "secenekler": [
+            "A) Dynamic Hashing",
+            "B) Reference Counting + Cyclic GC",
+            "C) AVL Tree",
+            "D) BFS"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "PYSORU",
+        "zorluk": "Zor",
+        "soru": "10. memoryview hangi amaçla kullanılır?",
+        "secenekler": [
+            "A) Dosya açmak",
+            "B) Belleğe direkt erişim sağlamak",
+            "C) Modül import etmek",
+            "D) Log yazmak"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "RUBY",
+        "zorluk": "Kolay",
+        "soru": "1. Ruby dosya uzantısı hangisidir?",
+        "secenekler": [
+            "A) .rb",
+            "B) .rby",
+            "C) .ry",
+            "D) .ruby"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "RUBY",
+        "zorluk": "Kolay",
+        "soru": "2. Ekrana yazdırma hangisiyle yapılır?",
+        "secenekler": [
+            "A) echo",
+            "B) print",
+            "C) puts",
+            "D) show"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "RUBY",
+        "zorluk": "Kolay",
+        "soru": "3. Değişken tanımlama hangisinde doğru yapılmıştırr?",
+        "secenekler": [
+            "A) var x=5",
+            "B) x = 5",
+            "C) let x=5",
+            "D) int x=5"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "RUBY",
+        "zorluk": "Kolay",
+        "soru": "4. Yorum satırı hangisidir?",
+        "secenekler": [
+            "A) //",
+            "B) <!-- -->",
+            "C) #",
+            "D) ;;"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "RUBY",
+        "zorluk": "Kolay",
+        "soru": "5. Dizi hangisiyle yapılır?",
+        "secenekler": [
+            "A) []",
+            "B) {}",
+            "C) ()",
+            "D) <>"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "RUBY",
+        "zorluk": "Kolay",
+        "soru": "6. Hash hangisidir?",
+        "secenekler": [
+            "A) ()",
+            "B) <>",
+            "C) []",
+            "D) {}"
+        ],
+        "dogru_cevap": "D"
+    },
+    {
+        "kategori": "RUBY",
+        "zorluk": "Kolay",
+        "soru": "7. String interpolation hangisidir?",
+        "secenekler": [
+            "A) $( )",
+            "B) #{ }",
+            "C) {{ }}",
+            "D) %%"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "RUBY",
+        "zorluk": "Kolay",
+        "soru": "8. Boolean hangisidir?",
+        "secenekler": [
+            "A) yes/no",
+            "B) on/off",
+            "C) true/false",
+            "D) 1/0"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "RUBY",
+        "zorluk": "Kolay",
+        "soru": "9. Döngü hangisiyle yapılır?",
+        "secenekler": [
+            "A) for",
+            "B) begin",
+            "C) keep",
+            "D) endif"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "RUBY",
+        "zorluk": "Kolay",
+        "soru": "10. Fonksiyon tanımı hangisiyle yapılır?",
+        "secenekler": [
+            "A) function",
+            "B) lambda",
+            "C) fun",
+            "D) def"
+        ],
+        "dogru_cevap": "D"
+    },
+    {
+        "kategori": "RUBY",
+        "zorluk": "Orta",
+        "soru": "1. Symbol nedir?",
+        "secenekler": [
+            "A) resim",
+            "B) değişmez tanımlayıcı",
+            "C) dizi",
+            "D) sınıf"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "RUBY",
+        "zorluk": "Orta",
+        "soru": "2. each ne içindir?",
+        "secenekler": [
+            "A) dönüş",
+            "B) yorum",
+            "C) sıralama",
+            "D) iterasyon"
+        ],
+        "dogru_cevap": "D"
+    },
+    {
+        "kategori": "RUBY",
+        "zorluk": "Orta",
+        "soru": "3. Class tanımı?",
+        "secenekler": [
+            "A) new A",
+            "B) def A",
+            "C) class A",
+            "D) type A"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "RUBY",
+        "zorluk": "Orta",
+        "soru": "4. initialize metodu?",
+        "secenekler": [
+            "A) constructor",
+            "B) final",
+            "C) override",
+            "D) delete"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "RUBY",
+        "zorluk": "Orta",
+        "soru": "5. attr_accessor ne sağlar?",
+        "secenekler": [
+            "A) sadece setter",
+            "B) sadece getter",
+            "C) getter/setter",
+            "D) constructor"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "RUBY",
+        "zorluk": "Orta",
+        "soru": "6. Module ne sağlar?",
+        "secenekler": [
+            "A) miras",
+            "B) davranış paylaşımı",
+            "C) derleme",
+            "D) hata ayıklama"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "RUBY",
+        "zorluk": "Orta",
+        "soru": "7. Mixins hangi mekanizmayla çalışır?",
+        "secenekler": [
+            "A) class <<",
+            "B) super class",
+            "C) extend hash",
+            "D) include module"
+        ],
+        "dogru_cevap": "D"
+    },
+    {
+        "kategori": "RUBY",
+        "zorluk": "Orta",
+        "soru": "8. yield ne yapar?",
+        "secenekler": [
+            "A) döngü bitirir",
+            "B) parametre ister",
+            "C) bloğu çağırır",
+            "D) sonucu siler"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "RUBY",
+        "zorluk": "Orta",
+        "soru": "9. rescue hangi yapının parçası?",
+        "secenekler": [
+            "A) begin-rescue",
+            "B) class-rescue",
+            "C) var-rescue",
+            "D) module-rescue"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "RUBY",
+        "zorluk": "Orta",
+        "soru": "10. require ne yapar?",
+        "secenekler": [
+            "A) import eder",
+            "B) siler",
+            "C) çalıştırır",
+            "D) veri döndürür"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "RUBY",
+        "zorluk": "Zor",
+        "soru": "1. Metaprogramming ne sağlar?",
+        "secenekler": [
+            "A) dosya yönetimi",
+            "B) kodun kod yazması",
+            "C) pointer kullanımı",
+            "D) zip arşivi"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "RUBY",
+        "zorluk": "Zor",
+        "soru": "2. Monkey patching nedir?",
+        "secenekler": [
+            "A) sınıf davranışı değiştirme",
+            "B) yaml parse",
+            "C) network açma",
+            "D) modül kapama"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "RUBY",
+        "zorluk": "Zor",
+        "soru": "3. Rack ne içindir?",
+        "secenekler": [
+            "A) veri bilimi",
+            "B) web server interface",
+            "C) sistem log",
+            "D) email"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "RUBY",
+        "zorluk": "Zor",
+        "soru": "4. Rails hangi mimariyi kullanır?",
+        "secenekler": [
+            "A) MVP",
+            "B) MVVM",
+            "C) MVC",
+            "D) DDD"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "RUBY",
+        "zorluk": "Zor",
+        "soru": "5. ActiveRecord nedir?",
+        "secenekler": [
+            "A) grafik motoru",
+            "B) dosya yöneticisi",
+            "C) matematik kütüphanesi",
+            "D) Ruby ORM"
+        ],
+        "dogru_cevap": "D"
+    },
+    {
+        "kategori": "RUBY",
+        "zorluk": "Zor",
+        "soru": "6. Lambda tanımı?",
+        "secenekler": [
+            "A) lambda {}",
+            "B) -> {}",
+            "C) proc {}",
+            "D) fun {}"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "RUBY",
+        "zorluk": "Zor",
+        "soru": "7. Proc ve Lambda farkı?",
+        "secenekler": [
+            "A) dönüş davranışı",
+            "B) aynı şey",
+            "C) dizi işlemleri",
+            "D) yalnızca thread"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "RUBY",
+        "zorluk": "Zor",
+        "soru": "8. Fiber nedir?",
+        "secenekler": [
+            "A) socket",
+            "B) ORM",
+            "C) veri tipi",
+            "D) hafif iş parçacığı"
+        ],
+        "dogru_cevap": "D"
+    },
+    {
+        "kategori": "RUBY",
+        "zorluk": "Zor",
+        "soru": "9. Enumerator ne üretir?",
+        "secenekler": [
+            "A) hash",
+            "B) liste",
+            "C) iteratör",
+            "D) sınıf"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "RUBY",
+        "zorluk": "Zor",
+        "soru": "10. Rubygems ne sağlar?",
+        "secenekler": [
+            "A) veri tipi",
+            "B) paket yönetimi",
+            "C) dizi motoru",
+            "D) compiler"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "SQL",
+        "zorluk": "Kolay",
+        "soru": "1.\tSELECT ne yapar?",
+        "secenekler": [
+            "a) Siler",
+            "b) Ekler",
+            "c) Çeker",
+            "d) Günceller"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "SQL",
+        "zorluk": "Kolay",
+        "soru": "2.\tINSERT ne yapar?",
+        "secenekler": [
+            "a) Ekleme)",
+            "b) Silme",
+            "c) Sıralama",
+            "d) Filtreleme"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "SQL",
+        "zorluk": "Kolay",
+        "soru": "3.\tUPDATE ne yapar?",
+        "secenekler": [
+            "a) Veri günceller",
+            "b) Tablo kurar",
+            "c) İndex açar",
+            "d) Filtreler"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "SQL",
+        "zorluk": "Kolay",
+        "soru": "4.\tDELETE ne yapar?",
+        "secenekler": [
+            "a) Tablo siler",
+            "b) Kayıt siler",
+            "c) Tablo oluşturur",
+            "d) Veri taşır"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "SQL",
+        "zorluk": "Kolay",
+        "soru": "5.\tWHERE ne işe yarar?",
+        "secenekler": [
+            "a) Sıralama",
+            "b) Filtre",
+            "c) Düzenleme",
+            "d) Gruplama"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "SQL",
+        "zorluk": "Kolay",
+        "soru": "6.\tORDER BY ne işe yarar?",
+        "secenekler": [
+            "a) Filtreler",
+            "b) Sıralar",
+            "c) Siler",
+            "d) Ekler"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "SQL",
+        "zorluk": "Kolay",
+        "soru": "7.\tPRIMARY KEY ne işe yarar?",
+        "secenekler": [
+            "a) Tekrar edebilir",
+            "b) Boş olabilir",
+            "c) Benzersizdir",
+            "d) Sıralıdır"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "SQL",
+        "zorluk": "Kolay",
+        "soru": "8.\tFOREIGN KEY ne işe yarar?",
+        "secenekler": [
+            "a) Bir tabloyu kilitler",
+            "b) İlişkileri sağlar",
+            "c) Dosya oluşturur",
+            "d) Triggers çalıştırır"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "SQL",
+        "zorluk": "Kolay",
+        "soru": "9.\tCOUNT(*) ne yapar?",
+        "secenekler": [
+            "a) Toplam alır",
+            "b) Sayar",
+            "c) Maksimum bulur",
+            "d) Ekler"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "SQL",
+        "zorluk": "Kolay",
+        "soru": "10. DISTINCT ne yapar?",
+        "secenekler": [
+            "a) Sıralar",
+            "b) Eşsiz kayıtları döndürür",
+            "c) Tablo kurar",
+            "d) Keser"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "SQL",
+        "zorluk": "Orta",
+        "soru": "1.\tGROUP BY ne işe yarar?",
+        "secenekler": [
+            "A) Tabloyu siler",
+            "B) Verileri gruplar",
+            "C) Dosya ekler",
+            "D) Sütun değiştirir"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "SQL",
+        "zorluk": "Orta",
+        "soru": "2.\tHAVING ne içindir?",
+        "secenekler": [
+            "A) Grup sonrası filtre",
+            "B) Sütun oluşturma",
+            "C) Veri silme",
+            "D) İndex açma"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "SQL",
+        "zorluk": "Orta",
+        "soru": "3.\tINNER JOIN ne içindir?",
+        "secenekler": [
+            "A) Tüm sol",
+            "B) Tüm sağ",
+            "C) Eşleşen veriler",
+            "D) Tüm veriler"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "SQL",
+        "zorluk": "Orta",
+        "soru": "4. LEFT JOIN?",
+        "secenekler": [
+            "A) sol + eşleşen",
+            "B) sağ + eşleşen",
+            "C) eşleşmeyenler yok",
+            "D) sadece sağ"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "SQL",
+        "zorluk": "Orta",
+        "soru": "5.\tBETWEEN 10 AND 20 nedir?",
+        "secenekler": [
+            "A) Sadece 10",
+            "B) Sadece 20",
+            "C) Aradaki değerler",
+            "D) Hiçbiri"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "SQL",
+        "zorluk": "Orta",
+        "soru": "6.\tLIKE '%a%' nedir?",
+        "secenekler": [
+            "A) a ile başlayan",
+            "B) a ile biten",
+            "C) içinde a geçen",
+            "D) sadece a olan"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "SQL",
+        "zorluk": "Orta",
+        "soru": "7.\tLIMIT ne yapar?",
+        "secenekler": [
+            "A) Kayıt sayısını sınırlar",
+            "B) Tabloyu siler",
+            "C) İlişkileri kapatır",
+            "D) Trigger çalıştırır"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "SQL",
+        "zorluk": "Orta",
+        "soru": "8.\tCREATE TABLE nedir?",
+        "secenekler": [
+            "A) Tablo oluşturur",
+            "B) Tablo siler",
+            "C) İndex kaldırır",
+            "D) Kullanıcı ekler"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "SQL",
+        "zorluk": "Orta",
+        "soru": "9.\tALTER TABLE nedir?",
+        "secenekler": [
+            "A) Veri ekler",
+            "B) Tablo yapısı değiştirir",
+            "C) Veri siler",
+            "D) Schema kapatır"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "SQL",
+        "zorluk": "Orta",
+        "soru": "10.\tUNION ne yapar?",
+        "secenekler": [
+            "A) Alt sorgu",
+            "B) İki sonucu birleştirir",
+            "C) Kesişi alır",
+            "D) Tablo siler"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "SQL",
+        "zorluk": "Zor",
+        "soru": "1.\tACID'de A harfi?",
+        "secenekler": [
+            "A) Automation",
+            "B) Atomicity",
+            "C) Allocation",
+            "D) Active"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "SQL",
+        "zorluk": "Zor",
+        "soru": "2.\tDeadlock nedir?",
+        "secenekler": [
+            "A) Veri kaybı",
+            "B) Kilitlenme",
+            "C) Çökme",
+            "D) Bağlantı kopyası"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "SQL",
+        "zorluk": "Zor",
+        "soru": "3.\tON DELETE CASCADE nedir?",
+        "secenekler": [
+            "A) Silerken bağlı kayıtları da siler",
+            "B) Silinmeyi engeller",
+            "C) Hata verir",
+            "D) Günceller"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "SQL",
+        "zorluk": "Zor",
+        "soru": "4.\tTrigger ne zaman çalışır?",
+        "secenekler": [
+            "A) Manual",
+            "B) Backup anında",
+            "C) Compile",
+            "D) Belirli olaylarda"
+        ],
+        "dogru_cevap": "D"
+    },
+    {
+        "kategori": "SQL",
+        "zorluk": "Zor",
+        "soru": "5.\tView nedir?",
+        "secenekler": [
+            "A) Dosya",
+            "B) Sanal Tablo",
+            "C) Script",
+            "D) Trigger"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "SQL",
+        "zorluk": "Zor",
+        "soru": "6.\tStored Procedure nedir?",
+        "secenekler": [
+            "A) Tablo",
+            "B) Veri paketi",
+            "C) Saklı kod",
+            "D) Binary"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "SQL",
+        "zorluk": "Zor",
+        "soru": "7.\tIndex ne sağlar?",
+        "secenekler": [
+            "A) Silme hızını artırır",
+            "B) Belleği kapatır",
+            "C) Okuma hızını artırır",
+            "D) Çökme önler"
+        ],
+        "dogru_cevap": "C"
+    },
+    {
+        "kategori": "SQL",
+        "zorluk": "Zor",
+        "soru": "8.\t3NF neyi kaldırır?",
+        "secenekler": [
+            "A) Fazlalık",
+            "B) Transitif bağımlılık",
+            "C) Null değerler",
+            "D) Tablo sayısı"
+        ],
+        "dogru_cevap": "B"
+    },
+    {
+        "kategori": "SQL",
+        "zorluk": "Zor",
+        "soru": "9.\tExecution plan ne içindir?",
+        "secenekler": [
+            "A) Sorgu yolu",
+            "B) Backups",
+            "C) Restore",
+            "D) Cluster ayarı"
+        ],
+        "dogru_cevap": "A"
+    },
+    {
+        "kategori": "SQL",
+        "zorluk": "Zor",
+        "soru": "10. Isolation Level neyi belirler?",
+        "secenekler": [
+            "A) Hata düzeyi",
+            "B) Transaction görünürlüğü",
+            "C) Trigger sıralaması",
+            "D) Tablo hızı"
+        ],
+        "dogru_cevap": "B"
+    }
+]
